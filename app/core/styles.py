@@ -219,7 +219,7 @@ html, body {{ background: var(--bg-grad) fixed no-repeat; }}
     radial-gradient(70% 55% at 70% 92%, rgba(95,127,79,.42) 0%, rgba(95,127,79,0) 70%),
     radial-gradient(55% 40% at 25% 85%, rgba(232,220,170,.60) 0%, rgba(232,220,170,0) 70%),
     linear-gradient(165deg, rgba(247,241,223,.50) 0%, rgba(241,235,213,.56) 45%, rgba(230,236,216,.62) 100%),
-    url('/app/static/backdrop.jpg') center / cover no-repeat;
+    url('app/static/backdrop.jpg') center / cover no-repeat;
   filter: blur(9px) saturate(118%); transform: scale(1.06); }}
 .stApp:has(.top-full, .app-glass) [data-testid="stMain"], .stApp:has(.top-full, .app-glass) [data-testid="stAppViewContainer"] {{ position: relative; z-index: 1; background: transparent !important; }}
 .stApp:has(.top-full, .app-glass) .card,
