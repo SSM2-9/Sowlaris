@@ -1,7 +1,7 @@
 # Sowlaris
 
 **NASA Space Apps Challenge 2026 Challenge: *Field Shift: Adapting Farms with NASA Data***
-Team: Aarya, Aisanat, Ekram, Sakina
+**Team: Aarya, Aisanat, Ekram, Sakina**
 
 https://sowlaris.streamlit.app/
 ---
