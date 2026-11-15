@@ -301,6 +301,11 @@ html, body {{ background: var(--bg-grad) fixed no-repeat; }}
   text-shadow: none !important; box-shadow: none !important; -webkit-backdrop-filter: none !important; backdrop-filter: none !important; }}
 /* the invisible cookie widget stays out of the page layout */
 .st-key-cookie_host {{ position: absolute !important; height: 0 !important; width: 0 !important; overflow: hidden !important; margin: 0 !important; padding: 0 !important; }}
+.st-key-find_btn button {{
+  background: #FFFFFF !important; color: var(--deep) !important;
+  border: 1px solid rgba(255,255,255,.95) !important; }}
+.st-key-find_btn button:hover {{ background: #FBF8EE !important; }}
+.st-key-find_btn button p {{ color: var(--deep) !important; }}
 """
 
 

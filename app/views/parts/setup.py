@@ -17,7 +17,7 @@ def render(user, cfg):
         q1, q2 = st.columns([3, 1])
         query = q1.text_input("Search by ZIP code, town, or coordinates", placeholder="e.g. 66502 or Manhattan, Kansas or 39.12, -96.63")
         q2.markdown("<div style='height:28px'></div>", unsafe_allow_html=True)
-        if q2.button("Find", width="stretch") and query:
+        if q2.button("Find", key="find_btn", width="stretch") and query:
             coords = re.match(r"^\s*(-?\d+\.?\d*)\s*,\s*(-?\d+\.?\d*)\s*$", query)
             found = (float(coords[1]), float(coords[2]), query) if coords else geocode(query)
             if found:
