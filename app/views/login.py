@@ -39,6 +39,33 @@ html, body, .stApp, [data-testid="stMain"], section.main { overflow: hidden !imp
   .hero-brand, .hero-body { left: 28px; } .hero-body { bottom: 150px; max-width: calc(100vw - 56px); }
   .hero-body h1 { font-size: 2.2rem; } .st-key-guest_cta { left: 28px; bottom: 64px; }
 }
+
+/* ---- glass v2: sharper photo, clearer panels, one glass layer (keep this block LAST) ---- */
+.stApp:has(.top-full, .app-glass)::before {{
+  background:
+    linear-gradient(165deg, rgba(247,241,223,.26) 0%, rgba(241,235,213,.30) 55%, rgba(230,236,216,.36) 100%),
+    url('/app/static/backdrop.jpg') center / cover no-repeat !important;
+  filter: blur(2px) saturate(115%); transform: scale(1.03); }}
+
+/* section boxes: lighter blur and a glossy highlight, so the photo's shapes show through */
+.stApp:has(.top-full, .app-glass) [class*="st-key-sec_"] {{
+  background:
+    linear-gradient(118deg, rgba(255,255,255,.34) 0%, rgba(255,255,255,0) 40%),
+    linear-gradient(135deg, rgba(236,228,202,.56) 0%, rgba(222,211,178,.42) 100%) !important;
+  -webkit-backdrop-filter: blur(10px) saturate(155%); backdrop-filter: blur(10px) saturate(155%);
+  border: 1px solid rgba(255,255,255,.75) !important;
+  box-shadow: 0 18px 48px rgba(63,90,58,.18), inset 0 1.5px 0 rgba(255,255,255,.9), inset 0 -1px 0 rgba(255,255,255,.35) !important; }}
+
+/* cards and expanders inside a box: lighter glass */
+.stApp:has(.top-full, .app-glass) .card,
+.stApp:has(.top-full, .app-glass) [data-testid="stExpander"] {{
+  background: linear-gradient(135deg, rgba(250,246,232,.60) 0%, rgba(240,233,210,.44) 100%) !important;
+  -webkit-backdrop-filter: blur(8px) saturate(140%); backdrop-filter: blur(8px) saturate(140%); }}
+
+/* no boxes inside boxes: intro lines and captions sit directly on the glass */
+.stApp:has(.top-full, .app-glass) .sec-sub,
+.stApp:has(.top-full, .app-glass) [data-testid="stCaptionContainer"] {{
+  background: none !important; border: none !important; padding: 0 !important; box-shadow: none !important; }}
 """
 
 
