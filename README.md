@@ -4,6 +4,8 @@
 Version 2.0 (post-audit) · Team: Ekram (lead ML & product architect), Aisanat (data & time series),
 Aarya (agronomy & clustering), Sakina (UI/UX & pitch)
 
+https://sowlaris.streamlit.app/
+
 Field Shift is a **decision-support prototype** that compares crop-rotation strategies for a farm. It shows the farmer's
 current rotation next to the best **feasible** alternatives for their own priorities and farm situation. Each option
 comes with why it was suggested, the evidence from NASA and USDA data, the benefits, the information gaps, the
