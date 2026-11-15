@@ -6,12 +6,12 @@ Sowlaris is the only interface. Ekram's earlier Streamlit page and its colours w
     streamlit run app/streamlit_app.py      # or: make app
 
 ## Layout of `app/`
-    app/streamlit_app.py   entry point: page setup, remember-me cookie, login or dashboard
+    app/streamlit_app.py   entry point: hero screen or dashboard
     app/core/auth.py       accounts, sessions, password reset, profile, delete account (SQLite: app/sowlaris.db)
     app/core/styles.py     palette, fonts, CSS, icons, tooltips
     app/core/engine.py     BRIDGE: calls fieldshift only; the interface never computes a score or ranking
     app/core/data.py       BRIDGE: pipeline numbers -> plain-language cards
-    app/views/login.py     hero + sign in / create account / forgot password
+    app/views/login.py     hero video + Continue as guest
     app/views/dashboard.py banner, farm setup, field health, rotation options, what-if, guide
     app/views/charts.py    all charts (Sowlaris palette)
     app/assets/, app/static/   images and hero video

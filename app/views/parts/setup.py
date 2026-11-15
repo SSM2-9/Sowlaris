@@ -4,7 +4,7 @@ import re
 import streamlit as st
 from streamlit_folium import st_folium
 
-from core import auth, data, engine
+from core import data, engine
 from core.styles import html, icon
 from views.parts.ui import DEFAULT, build_map, geocode, head
 
@@ -53,6 +53,4 @@ def render(user, cfg):
             cfg["water_limit"] = st.checkbox("Do not use more water than my current rotation", cfg["water_limit"], key="c_water_limit")
             cfg["interseed"] = st.checkbox("I can seed cover crops before harvest (interseeding)", cfg["interseed"], key="c_interseed")
             cfg["forage"] = st.checkbox("I have livestock or a hay/forage buyer", cfg["forage"], key="c_forage")
-        if st.button("Save my field setup"):
-            auth.save_setup(user["id"], cfg); st.success("Saved. We will load this next time you sign in.")
     return cfg

@@ -11,4 +11,3 @@ folium
 streamlit-folium
 geopy
 pillow
-extra-streamlit-components
