@@ -1,0 +1,14 @@
+indicator,variable,unit,first_year,last_year,mean,n_years,slope_per_decade,slope_ci95_low,slope_ci95_high,kendall_tau,p_value,significant_5pct,available
+Mean annual temperature,temp_mean_c,°C,2005,2025,13.059,21,0.858,-0.12,1.249,0.276,0.0852,False,True
+Summer (Jun–Aug) mean temperature,temp_mean_c,°C,2005,2025,25.967,21,0.522,-0.494,1.314,0.162,0.3232,False,True
+Heat-stress days per year,heat_stress_days,days,2005,2025,23.905,21,6.458,-9.0,16.667,0.163,0.3041,False,True
+Frost days per year,frost_days,days,2005,2025,105.524,21,-5.54,-16.667,8.0,-0.144,0.3645,False,True
+Annual rain (GPM IMERG),rain_gpm_imerg_mm,mm,2005,2025,906.542,21,-73.929,-169.8,54.713,-0.181,0.2675,False,True
+Growing-season rain (May–Sep),rain_gpm_imerg_mm,mm,2005,2025,561.664,21,-45.573,-122.022,40.545,-0.086,0.6119,False,True
+Growing-season crop water demand ET0,et0_hargreaves_mm,mm,2005,2025,768.858,21,21.081,-22.958,61.433,0.219,0.1763,False,True
+Growing-season water balance,water_balance_mm,mm,2005,2025,-207.194,21,-72.655,-193.867,61.355,-0.114,0.4921,False,True
+Heavy-rain days per year (≥25 mm),heavy_rain_days,days,2005,2025,9.333,21,-1.381,-3.333,0.556,-0.206,0.2091,False,True
+"Root-zone soil wetness, Jul–Aug (POWER)",soil_wetness_root_0_1,0–1,2005,2025,0.429,21,-0.007,-0.029,0.01,-0.092,0.5643,False,True
+"SMAP soil moisture, Jul–Aug (2015–2025)",smap_soil_moisture_m3m3,m³/m³,2015,2025,0.204,11,-0.035,-0.069,0.007,-0.382,0.121,False,True
+"Peak summer NDVI (MODIS, Jun–Aug max)",ndvi,NDVI,2005,2025,0.819,21,0.08,0.038,0.124,0.514,0.0008,True,True
+"Winter NDVI (MODIS, Dec–Feb mean)",ndvi,NDVI,2005,2025,0.259,21,-0.048,-0.077,-0.028,-0.638,0.0,True,True

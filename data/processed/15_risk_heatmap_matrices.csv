@@ -1,0 +1,1387 @@
+year,month,variable,value,label
+2005,1,water_balance_mm,43.64,"Water balance (rain − ET0), mm"
+2005,2,water_balance_mm,44.0,"Water balance (rain − ET0), mm"
+2005,3,water_balance_mm,-56.47,"Water balance (rain − ET0), mm"
+2005,4,water_balance_mm,-31.63,"Water balance (rain − ET0), mm"
+2005,5,water_balance_mm,-44.78,"Water balance (rain − ET0), mm"
+2005,6,water_balance_mm,78.1,"Water balance (rain − ET0), mm"
+2005,7,water_balance_mm,-79.55,"Water balance (rain − ET0), mm"
+2005,8,water_balance_mm,24.7,"Water balance (rain − ET0), mm"
+2005,9,water_balance_mm,-50.53,"Water balance (rain − ET0), mm"
+2005,10,water_balance_mm,-0.0,"Water balance (rain − ET0), mm"
+2005,11,water_balance_mm,-14.45,"Water balance (rain − ET0), mm"
+2005,12,water_balance_mm,0.03,"Water balance (rain − ET0), mm"
+2006,1,water_balance_mm,-22.43,"Water balance (rain − ET0), mm"
+2006,2,water_balance_mm,-33.17,"Water balance (rain − ET0), mm"
+2006,3,water_balance_mm,-22.51,"Water balance (rain − ET0), mm"
+2006,4,water_balance_mm,-28.57,"Water balance (rain − ET0), mm"
+2006,5,water_balance_mm,-77.25,"Water balance (rain − ET0), mm"
+2006,6,water_balance_mm,-119.47,"Water balance (rain − ET0), mm"
+2006,7,water_balance_mm,-114.06,"Water balance (rain − ET0), mm"
+2006,8,water_balance_mm,5.53,"Water balance (rain − ET0), mm"
+2006,9,water_balance_mm,-19.91,"Water balance (rain − ET0), mm"
+2006,10,water_balance_mm,-12.61,"Water balance (rain − ET0), mm"
+2006,11,water_balance_mm,-32.63,"Water balance (rain − ET0), mm"
+2006,12,water_balance_mm,9.9,"Water balance (rain − ET0), mm"
+2007,1,water_balance_mm,2.48,"Water balance (rain − ET0), mm"
+2007,2,water_balance_mm,8.77,"Water balance (rain − ET0), mm"
+2007,3,water_balance_mm,14.25,"Water balance (rain − ET0), mm"
+2007,4,water_balance_mm,-18.85,"Water balance (rain − ET0), mm"
+2007,5,water_balance_mm,129.95,"Water balance (rain − ET0), mm"
+2007,6,water_balance_mm,-3.96,"Water balance (rain − ET0), mm"
+2007,7,water_balance_mm,-74.49,"Water balance (rain − ET0), mm"
+2007,8,water_balance_mm,-72.09,"Water balance (rain − ET0), mm"
+2007,9,water_balance_mm,-31.91,"Water balance (rain − ET0), mm"
+2007,10,water_balance_mm,66.3,"Water balance (rain − ET0), mm"
+2007,11,water_balance_mm,-36.46,"Water balance (rain − ET0), mm"
+2007,12,water_balance_mm,94.85,"Water balance (rain − ET0), mm"
+2008,1,water_balance_mm,-9.47,"Water balance (rain − ET0), mm"
+2008,2,water_balance_mm,19.45,"Water balance (rain − ET0), mm"
+2008,3,water_balance_mm,-24.54,"Water balance (rain − ET0), mm"
+2008,4,water_balance_mm,-5.32,"Water balance (rain − ET0), mm"
+2008,5,water_balance_mm,-5.57,"Water balance (rain − ET0), mm"
+2008,6,water_balance_mm,12.48,"Water balance (rain − ET0), mm"
+2008,7,water_balance_mm,-68.2,"Water balance (rain − ET0), mm"
+2008,8,water_balance_mm,-39.69,"Water balance (rain − ET0), mm"
+2008,9,water_balance_mm,32.29,"Water balance (rain − ET0), mm"
+2008,10,water_balance_mm,19.79,"Water balance (rain − ET0), mm"
+2008,11,water_balance_mm,-2.92,"Water balance (rain − ET0), mm"
+2008,12,water_balance_mm,4.13,"Water balance (rain − ET0), mm"
+2009,1,water_balance_mm,-19.36,"Water balance (rain − ET0), mm"
+2009,2,water_balance_mm,-24.83,"Water balance (rain − ET0), mm"
+2009,3,water_balance_mm,-31.44,"Water balance (rain − ET0), mm"
+2009,4,water_balance_mm,48.74,"Water balance (rain − ET0), mm"
+2009,5,water_balance_mm,-81.06,"Water balance (rain − ET0), mm"
+2009,6,water_balance_mm,18.55,"Water balance (rain − ET0), mm"
+2009,7,water_balance_mm,-30.19,"Water balance (rain − ET0), mm"
+2009,8,water_balance_mm,-39.0,"Water balance (rain − ET0), mm"
+2009,9,water_balance_mm,-1.38,"Water balance (rain − ET0), mm"
+2009,10,water_balance_mm,45.82,"Water balance (rain − ET0), mm"
+2009,11,water_balance_mm,1.56,"Water balance (rain − ET0), mm"
+2009,12,water_balance_mm,11.84,"Water balance (rain − ET0), mm"
+2010,1,water_balance_mm,-0.67,"Water balance (rain − ET0), mm"
+2010,2,water_balance_mm,-0.25,"Water balance (rain − ET0), mm"
+2010,3,water_balance_mm,-18.8,"Water balance (rain − ET0), mm"
+2010,4,water_balance_mm,-16.79,"Water balance (rain − ET0), mm"
+2010,5,water_balance_mm,-25.55,"Water balance (rain − ET0), mm"
+2010,6,water_balance_mm,30.66,"Water balance (rain − ET0), mm"
+2010,7,water_balance_mm,-6.44,"Water balance (rain − ET0), mm"
+2010,8,water_balance_mm,-110.14,"Water balance (rain − ET0), mm"
+2010,9,water_balance_mm,25.81,"Water balance (rain − ET0), mm"
+2010,10,water_balance_mm,-55.86,"Water balance (rain − ET0), mm"
+2010,11,water_balance_mm,15.71,"Water balance (rain − ET0), mm"
+2010,12,water_balance_mm,-18.2,"Water balance (rain − ET0), mm"
+2011,1,water_balance_mm,8.37,"Water balance (rain − ET0), mm"
+2011,2,water_balance_mm,-11.14,"Water balance (rain − ET0), mm"
+2011,3,water_balance_mm,-32.07,"Water balance (rain − ET0), mm"
+2011,4,water_balance_mm,-33.56,"Water balance (rain − ET0), mm"
+2011,5,water_balance_mm,-19.27,"Water balance (rain − ET0), mm"
+2011,6,water_balance_mm,-101.26,"Water balance (rain − ET0), mm"
+2011,7,water_balance_mm,-126.42,"Water balance (rain − ET0), mm"
+2011,8,water_balance_mm,-84.43,"Water balance (rain − ET0), mm"
+2011,9,water_balance_mm,-63.06,"Water balance (rain − ET0), mm"
+2011,10,water_balance_mm,-33.52,"Water balance (rain − ET0), mm"
+2011,11,water_balance_mm,69.64,"Water balance (rain − ET0), mm"
+2011,12,water_balance_mm,60.66,"Water balance (rain − ET0), mm"
+2012,1,water_balance_mm,-20.04,"Water balance (rain − ET0), mm"
+2012,2,water_balance_mm,35.47,"Water balance (rain − ET0), mm"
+2012,3,water_balance_mm,-42.73,"Water balance (rain − ET0), mm"
+2012,4,water_balance_mm,-38.82,"Water balance (rain − ET0), mm"
+2012,5,water_balance_mm,-134.21,"Water balance (rain − ET0), mm"
+2012,6,water_balance_mm,-100.72,"Water balance (rain − ET0), mm"
+2012,7,water_balance_mm,-176.85,"Water balance (rain − ET0), mm"
+2012,8,water_balance_mm,-79.01,"Water balance (rain − ET0), mm"
+2012,9,water_balance_mm,-45.04,"Water balance (rain − ET0), mm"
+2012,10,water_balance_mm,-34.82,"Water balance (rain − ET0), mm"
+2012,11,water_balance_mm,-10.66,"Water balance (rain − ET0), mm"
+2012,12,water_balance_mm,-6.23,"Water balance (rain − ET0), mm"
+2013,1,water_balance_mm,-0.59,"Water balance (rain − ET0), mm"
+2013,2,water_balance_mm,11.1,"Water balance (rain − ET0), mm"
+2013,3,water_balance_mm,-27.66,"Water balance (rain − ET0), mm"
+2013,4,water_balance_mm,-0.54,"Water balance (rain − ET0), mm"
+2013,5,water_balance_mm,-1.1,"Water balance (rain − ET0), mm"
+2013,6,water_balance_mm,-101.76,"Water balance (rain − ET0), mm"
+2013,7,water_balance_mm,-78.21,"Water balance (rain − ET0), mm"
+2013,8,water_balance_mm,-43.67,"Water balance (rain − ET0), mm"
+2013,9,water_balance_mm,-29.65,"Water balance (rain − ET0), mm"
+2013,10,water_balance_mm,25.79,"Water balance (rain − ET0), mm"
+2013,11,water_balance_mm,-9.49,"Water balance (rain − ET0), mm"
+2013,12,water_balance_mm,-10.21,"Water balance (rain − ET0), mm"
+2014,1,water_balance_mm,-7.45,"Water balance (rain − ET0), mm"
+2014,2,water_balance_mm,2.41,"Water balance (rain − ET0), mm"
+2014,3,water_balance_mm,-57.92,"Water balance (rain − ET0), mm"
+2014,4,water_balance_mm,-65.95,"Water balance (rain − ET0), mm"
+2014,5,water_balance_mm,-91.5,"Water balance (rain − ET0), mm"
+2014,6,water_balance_mm,30.45,"Water balance (rain − ET0), mm"
+2014,7,water_balance_mm,-137.4,"Water balance (rain − ET0), mm"
+2014,8,water_balance_mm,-67.63,"Water balance (rain − ET0), mm"
+2014,9,water_balance_mm,-22.69,"Water balance (rain − ET0), mm"
+2014,10,water_balance_mm,3.05,"Water balance (rain − ET0), mm"
+2014,11,water_balance_mm,-18.32,"Water balance (rain − ET0), mm"
+2014,12,water_balance_mm,33.05,"Water balance (rain − ET0), mm"
+2015,1,water_balance_mm,6.31,"Water balance (rain − ET0), mm"
+2015,2,water_balance_mm,-2.22,"Water balance (rain − ET0), mm"
+2015,3,water_balance_mm,-57.97,"Water balance (rain − ET0), mm"
+2015,4,water_balance_mm,-39.15,"Water balance (rain − ET0), mm"
+2015,5,water_balance_mm,122.62,"Water balance (rain − ET0), mm"
+2015,6,water_balance_mm,-12.76,"Water balance (rain − ET0), mm"
+2015,7,water_balance_mm,-11.35,"Water balance (rain − ET0), mm"
+2015,8,water_balance_mm,-76.42,"Water balance (rain − ET0), mm"
+2015,9,water_balance_mm,-24.29,"Water balance (rain − ET0), mm"
+2015,10,water_balance_mm,-50.78,"Water balance (rain − ET0), mm"
+2015,11,water_balance_mm,76.67,"Water balance (rain − ET0), mm"
+2015,12,water_balance_mm,78.4,"Water balance (rain − ET0), mm"
+2016,1,water_balance_mm,2.03,"Water balance (rain − ET0), mm"
+2016,2,water_balance_mm,-24.47,"Water balance (rain − ET0), mm"
+2016,3,water_balance_mm,-42.09,"Water balance (rain − ET0), mm"
+2016,4,water_balance_mm,30.09,"Water balance (rain − ET0), mm"
+2016,5,water_balance_mm,53.51,"Water balance (rain − ET0), mm"
+2016,6,water_balance_mm,-140.12,"Water balance (rain − ET0), mm"
+2016,7,water_balance_mm,-21.29,"Water balance (rain − ET0), mm"
+2016,8,water_balance_mm,19.83,"Water balance (rain − ET0), mm"
+2016,9,water_balance_mm,41.27,"Water balance (rain − ET0), mm"
+2016,10,water_balance_mm,-21.22,"Water balance (rain − ET0), mm"
+2016,11,water_balance_mm,-21.57,"Water balance (rain − ET0), mm"
+2016,12,water_balance_mm,6.88,"Water balance (rain − ET0), mm"
+2017,1,water_balance_mm,31.44,"Water balance (rain − ET0), mm"
+2017,2,water_balance_mm,-25.27,"Water balance (rain − ET0), mm"
+2017,3,water_balance_mm,40.88,"Water balance (rain − ET0), mm"
+2017,4,water_balance_mm,34.23,"Water balance (rain − ET0), mm"
+2017,5,water_balance_mm,-23.7,"Water balance (rain − ET0), mm"
+2017,6,water_balance_mm,-73.77,"Water balance (rain − ET0), mm"
+2017,7,water_balance_mm,-129.31,"Water balance (rain − ET0), mm"
+2017,8,water_balance_mm,-36.97,"Water balance (rain − ET0), mm"
+2017,9,water_balance_mm,-57.69,"Water balance (rain − ET0), mm"
+2017,10,water_balance_mm,36.84,"Water balance (rain − ET0), mm"
+2017,11,water_balance_mm,-31.28,"Water balance (rain − ET0), mm"
+2017,12,water_balance_mm,-20.86,"Water balance (rain − ET0), mm"
+2018,1,water_balance_mm,-2.76,"Water balance (rain − ET0), mm"
+2018,2,water_balance_mm,-18.86,"Water balance (rain − ET0), mm"
+2018,3,water_balance_mm,-44.42,"Water balance (rain − ET0), mm"
+2018,4,water_balance_mm,-76.66,"Water balance (rain − ET0), mm"
+2018,5,water_balance_mm,-81.78,"Water balance (rain − ET0), mm"
+2018,6,water_balance_mm,-107.12,"Water balance (rain − ET0), mm"
+2018,7,water_balance_mm,-106.7,"Water balance (rain − ET0), mm"
+2018,8,water_balance_mm,-9.22,"Water balance (rain − ET0), mm"
+2018,9,water_balance_mm,-2.15,"Water balance (rain − ET0), mm"
+2018,10,water_balance_mm,94.39,"Water balance (rain − ET0), mm"
+2018,11,water_balance_mm,8.24,"Water balance (rain − ET0), mm"
+2018,12,water_balance_mm,52.12,"Water balance (rain − ET0), mm"
+2019,1,water_balance_mm,-2.47,"Water balance (rain − ET0), mm"
+2019,2,water_balance_mm,11.19,"Water balance (rain − ET0), mm"
+2019,3,water_balance_mm,-3.69,"Water balance (rain − ET0), mm"
+2019,4,water_balance_mm,-22.28,"Water balance (rain − ET0), mm"
+2019,5,water_balance_mm,168.34,"Water balance (rain − ET0), mm"
+2019,6,water_balance_mm,20.01,"Water balance (rain − ET0), mm"
+2019,7,water_balance_mm,-62.88,"Water balance (rain − ET0), mm"
+2019,8,water_balance_mm,104.3,"Water balance (rain − ET0), mm"
+2019,9,water_balance_mm,-33.66,"Water balance (rain − ET0), mm"
+2019,10,water_balance_mm,15.32,"Water balance (rain − ET0), mm"
+2019,11,water_balance_mm,-6.48,"Water balance (rain − ET0), mm"
+2019,12,water_balance_mm,23.46,"Water balance (rain − ET0), mm"
+2020,1,water_balance_mm,42.49,"Water balance (rain − ET0), mm"
+2020,2,water_balance_mm,-11.25,"Water balance (rain − ET0), mm"
+2020,3,water_balance_mm,-5.99,"Water balance (rain − ET0), mm"
+2020,4,water_balance_mm,-42.78,"Water balance (rain − ET0), mm"
+2020,5,water_balance_mm,6.61,"Water balance (rain − ET0), mm"
+2020,6,water_balance_mm,-55.66,"Water balance (rain − ET0), mm"
+2020,7,water_balance_mm,58.13,"Water balance (rain − ET0), mm"
+2020,8,water_balance_mm,-103.75,"Water balance (rain − ET0), mm"
+2020,9,water_balance_mm,-49.74,"Water balance (rain − ET0), mm"
+2020,10,water_balance_mm,-49.47,"Water balance (rain − ET0), mm"
+2020,11,water_balance_mm,9.97,"Water balance (rain − ET0), mm"
+2020,12,water_balance_mm,-6.19,"Water balance (rain − ET0), mm"
+2021,1,water_balance_mm,3.46,"Water balance (rain − ET0), mm"
+2021,2,water_balance_mm,-23.12,"Water balance (rain − ET0), mm"
+2021,3,water_balance_mm,30.63,"Water balance (rain − ET0), mm"
+2021,4,water_balance_mm,-45.38,"Water balance (rain − ET0), mm"
+2021,5,water_balance_mm,51.15,"Water balance (rain − ET0), mm"
+2021,6,water_balance_mm,-89.89,"Water balance (rain − ET0), mm"
+2021,7,water_balance_mm,-81.92,"Water balance (rain − ET0), mm"
+2021,8,water_balance_mm,-71.8,"Water balance (rain − ET0), mm"
+2021,9,water_balance_mm,-59.82,"Water balance (rain − ET0), mm"
+2021,10,water_balance_mm,45.75,"Water balance (rain − ET0), mm"
+2021,11,water_balance_mm,-12.42,"Water balance (rain − ET0), mm"
+2021,12,water_balance_mm,-25.78,"Water balance (rain − ET0), mm"
+2022,1,water_balance_mm,-15.29,"Water balance (rain − ET0), mm"
+2022,2,water_balance_mm,-23.92,"Water balance (rain − ET0), mm"
+2022,3,water_balance_mm,-9.71,"Water balance (rain − ET0), mm"
+2022,4,water_balance_mm,-60.44,"Water balance (rain − ET0), mm"
+2022,5,water_balance_mm,82.1,"Water balance (rain − ET0), mm"
+2022,6,water_balance_mm,-64.46,"Water balance (rain − ET0), mm"
+2022,7,water_balance_mm,-93.01,"Water balance (rain − ET0), mm"
+2022,8,water_balance_mm,-133.72,"Water balance (rain − ET0), mm"
+2022,9,water_balance_mm,-80.17,"Water balance (rain − ET0), mm"
+2022,10,water_balance_mm,-40.49,"Water balance (rain − ET0), mm"
+2022,11,water_balance_mm,53.32,"Water balance (rain − ET0), mm"
+2022,12,water_balance_mm,10.53,"Water balance (rain − ET0), mm"
+2023,1,water_balance_mm,27.13,"Water balance (rain − ET0), mm"
+2023,2,water_balance_mm,8.8,"Water balance (rain − ET0), mm"
+2023,3,water_balance_mm,-42.64,"Water balance (rain − ET0), mm"
+2023,4,water_balance_mm,-48.44,"Water balance (rain − ET0), mm"
+2023,5,water_balance_mm,-53.03,"Water balance (rain − ET0), mm"
+2023,6,water_balance_mm,-104.86,"Water balance (rain − ET0), mm"
+2023,7,water_balance_mm,-117.34,"Water balance (rain − ET0), mm"
+2023,8,water_balance_mm,-112.78,"Water balance (rain − ET0), mm"
+2023,9,water_balance_mm,-82.65,"Water balance (rain − ET0), mm"
+2023,10,water_balance_mm,-3.3,"Water balance (rain − ET0), mm"
+2023,11,water_balance_mm,-5.15,"Water balance (rain − ET0), mm"
+2023,12,water_balance_mm,43.56,"Water balance (rain − ET0), mm"
+2024,1,water_balance_mm,32.02,"Water balance (rain − ET0), mm"
+2024,2,water_balance_mm,-26.21,"Water balance (rain − ET0), mm"
+2024,3,water_balance_mm,-42.03,"Water balance (rain − ET0), mm"
+2024,4,water_balance_mm,-13.39,"Water balance (rain − ET0), mm"
+2024,5,water_balance_mm,-26.47,"Water balance (rain − ET0), mm"
+2024,6,water_balance_mm,-7.03,"Water balance (rain − ET0), mm"
+2024,7,water_balance_mm,-88.6,"Water balance (rain − ET0), mm"
+2024,8,water_balance_mm,-62.51,"Water balance (rain − ET0), mm"
+2024,9,water_balance_mm,-96.7,"Water balance (rain − ET0), mm"
+2024,10,water_balance_mm,-31.4,"Water balance (rain − ET0), mm"
+2024,11,water_balance_mm,129.67,"Water balance (rain − ET0), mm"
+2024,12,water_balance_mm,-11.66,"Water balance (rain − ET0), mm"
+2025,1,water_balance_mm,-9.5,"Water balance (rain − ET0), mm"
+2025,2,water_balance_mm,-22.21,"Water balance (rain − ET0), mm"
+2025,3,water_balance_mm,-38.58,"Water balance (rain − ET0), mm"
+2025,4,water_balance_mm,-26.59,"Water balance (rain − ET0), mm"
+2025,5,water_balance_mm,-50.43,"Water balance (rain − ET0), mm"
+2025,6,water_balance_mm,-20.78,"Water balance (rain − ET0), mm"
+2025,7,water_balance_mm,-64.69,"Water balance (rain − ET0), mm"
+2025,8,water_balance_mm,-55.66,"Water balance (rain − ET0), mm"
+2025,9,water_balance_mm,-29.72,"Water balance (rain − ET0), mm"
+2025,10,water_balance_mm,-29.55,"Water balance (rain − ET0), mm"
+2025,11,water_balance_mm,3.42,"Water balance (rain − ET0), mm"
+2025,12,water_balance_mm,-9.13,"Water balance (rain − ET0), mm"
+2005,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2005,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2005,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2005,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2005,5,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2005,6,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2005,7,heat_stress_days,7.0,Heat-stress days (≥35 °C)
+2005,8,heat_stress_days,9.0,Heat-stress days (≥35 °C)
+2005,9,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2005,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2005,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2005,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2006,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2006,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2006,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2006,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2006,5,heat_stress_days,1.0,Heat-stress days (≥35 °C)
+2006,6,heat_stress_days,5.0,Heat-stress days (≥35 °C)
+2006,7,heat_stress_days,17.0,Heat-stress days (≥35 °C)
+2006,8,heat_stress_days,11.0,Heat-stress days (≥35 °C)
+2006,9,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2006,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2006,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2006,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2007,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2007,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2007,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2007,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2007,5,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2007,6,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2007,7,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2007,8,heat_stress_days,12.0,Heat-stress days (≥35 °C)
+2007,9,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2007,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2007,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2007,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2008,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2008,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2008,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2008,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2008,5,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2008,6,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2008,7,heat_stress_days,5.0,Heat-stress days (≥35 °C)
+2008,8,heat_stress_days,3.0,Heat-stress days (≥35 °C)
+2008,9,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2008,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2008,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2008,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2009,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2009,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2009,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2009,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2009,5,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2009,6,heat_stress_days,3.0,Heat-stress days (≥35 °C)
+2009,7,heat_stress_days,2.0,Heat-stress days (≥35 °C)
+2009,8,heat_stress_days,4.0,Heat-stress days (≥35 °C)
+2009,9,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2009,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2009,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2009,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2010,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2010,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2010,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2010,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2010,5,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2010,6,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2010,7,heat_stress_days,2.0,Heat-stress days (≥35 °C)
+2010,8,heat_stress_days,16.0,Heat-stress days (≥35 °C)
+2010,9,heat_stress_days,1.0,Heat-stress days (≥35 °C)
+2010,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2010,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2010,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2011,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2011,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2011,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2011,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2011,5,heat_stress_days,2.0,Heat-stress days (≥35 °C)
+2011,6,heat_stress_days,7.0,Heat-stress days (≥35 °C)
+2011,7,heat_stress_days,28.0,Heat-stress days (≥35 °C)
+2011,8,heat_stress_days,14.0,Heat-stress days (≥35 °C)
+2011,9,heat_stress_days,3.0,Heat-stress days (≥35 °C)
+2011,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2011,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2011,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2012,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2012,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2012,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2012,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2012,5,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2012,6,heat_stress_days,9.0,Heat-stress days (≥35 °C)
+2012,7,heat_stress_days,28.0,Heat-stress days (≥35 °C)
+2012,8,heat_stress_days,10.0,Heat-stress days (≥35 °C)
+2012,9,heat_stress_days,5.0,Heat-stress days (≥35 °C)
+2012,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2012,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2012,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2013,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2013,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2013,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2013,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2013,5,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2013,6,heat_stress_days,6.0,Heat-stress days (≥35 °C)
+2013,7,heat_stress_days,11.0,Heat-stress days (≥35 °C)
+2013,8,heat_stress_days,2.0,Heat-stress days (≥35 °C)
+2013,9,heat_stress_days,2.0,Heat-stress days (≥35 °C)
+2013,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2013,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2013,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2014,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2014,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2014,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2014,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2014,5,heat_stress_days,3.0,Heat-stress days (≥35 °C)
+2014,6,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2014,7,heat_stress_days,11.0,Heat-stress days (≥35 °C)
+2014,8,heat_stress_days,11.0,Heat-stress days (≥35 °C)
+2014,9,heat_stress_days,1.0,Heat-stress days (≥35 °C)
+2014,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2014,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2014,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2015,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2015,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2015,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2015,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2015,5,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2015,6,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2015,7,heat_stress_days,4.0,Heat-stress days (≥35 °C)
+2015,8,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2015,9,heat_stress_days,6.0,Heat-stress days (≥35 °C)
+2015,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2015,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2015,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2016,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2016,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2016,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2016,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2016,5,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2016,6,heat_stress_days,4.0,Heat-stress days (≥35 °C)
+2016,7,heat_stress_days,5.0,Heat-stress days (≥35 °C)
+2016,8,heat_stress_days,4.0,Heat-stress days (≥35 °C)
+2016,9,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2016,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2016,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2016,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2017,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2017,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2017,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2017,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2017,5,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2017,6,heat_stress_days,1.0,Heat-stress days (≥35 °C)
+2017,7,heat_stress_days,16.0,Heat-stress days (≥35 °C)
+2017,8,heat_stress_days,2.0,Heat-stress days (≥35 °C)
+2017,9,heat_stress_days,2.0,Heat-stress days (≥35 °C)
+2017,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2017,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2017,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2018,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2018,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2018,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2018,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2018,5,heat_stress_days,3.0,Heat-stress days (≥35 °C)
+2018,6,heat_stress_days,11.0,Heat-stress days (≥35 °C)
+2018,7,heat_stress_days,14.0,Heat-stress days (≥35 °C)
+2018,8,heat_stress_days,4.0,Heat-stress days (≥35 °C)
+2018,9,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2018,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2018,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2018,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2019,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2019,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2019,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2019,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2019,5,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2019,6,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2019,7,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2019,8,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2019,9,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2019,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2019,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2019,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2020,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2020,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2020,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2020,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2020,5,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2020,6,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2020,7,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2020,8,heat_stress_days,7.0,Heat-stress days (≥35 °C)
+2020,9,heat_stress_days,2.0,Heat-stress days (≥35 °C)
+2020,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2020,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2020,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2021,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2021,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2021,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2021,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2021,5,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2021,6,heat_stress_days,8.0,Heat-stress days (≥35 °C)
+2021,7,heat_stress_days,9.0,Heat-stress days (≥35 °C)
+2021,8,heat_stress_days,13.0,Heat-stress days (≥35 °C)
+2021,9,heat_stress_days,1.0,Heat-stress days (≥35 °C)
+2021,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2021,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2021,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2022,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2022,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2022,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2022,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2022,5,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2022,6,heat_stress_days,4.0,Heat-stress days (≥35 °C)
+2022,7,heat_stress_days,11.0,Heat-stress days (≥35 °C)
+2022,8,heat_stress_days,18.0,Heat-stress days (≥35 °C)
+2022,9,heat_stress_days,6.0,Heat-stress days (≥35 °C)
+2022,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2022,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2022,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2023,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2023,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2023,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2023,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2023,5,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2023,6,heat_stress_days,4.0,Heat-stress days (≥35 °C)
+2023,7,heat_stress_days,16.0,Heat-stress days (≥35 °C)
+2023,8,heat_stress_days,14.0,Heat-stress days (≥35 °C)
+2023,9,heat_stress_days,6.0,Heat-stress days (≥35 °C)
+2023,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2023,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2023,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2024,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2024,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2024,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2024,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2024,5,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2024,6,heat_stress_days,5.0,Heat-stress days (≥35 °C)
+2024,7,heat_stress_days,13.0,Heat-stress days (≥35 °C)
+2024,8,heat_stress_days,14.0,Heat-stress days (≥35 °C)
+2024,9,heat_stress_days,3.0,Heat-stress days (≥35 °C)
+2024,10,heat_stress_days,1.0,Heat-stress days (≥35 °C)
+2024,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2024,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2025,1,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2025,2,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2025,3,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2025,4,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2025,5,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2025,6,heat_stress_days,1.0,Heat-stress days (≥35 °C)
+2025,7,heat_stress_days,11.0,Heat-stress days (≥35 °C)
+2025,8,heat_stress_days,8.0,Heat-stress days (≥35 °C)
+2025,9,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2025,10,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2025,11,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2025,12,heat_stress_days,0.0,Heat-stress days (≥35 °C)
+2005,1,frost_days,29.0,Frost days (≤0 °C)
+2005,2,frost_days,17.0,Frost days (≤0 °C)
+2005,3,frost_days,15.0,Frost days (≤0 °C)
+2005,4,frost_days,1.0,Frost days (≤0 °C)
+2005,5,frost_days,1.0,Frost days (≤0 °C)
+2005,6,frost_days,0.0,Frost days (≤0 °C)
+2005,7,frost_days,0.0,Frost days (≤0 °C)
+2005,8,frost_days,0.0,Frost days (≤0 °C)
+2005,9,frost_days,0.0,Frost days (≤0 °C)
+2005,10,frost_days,3.0,Frost days (≤0 °C)
+2005,11,frost_days,9.0,Frost days (≤0 °C)
+2005,12,frost_days,29.0,Frost days (≤0 °C)
+2006,1,frost_days,22.0,Frost days (≤0 °C)
+2006,2,frost_days,24.0,Frost days (≤0 °C)
+2006,3,frost_days,11.0,Frost days (≤0 °C)
+2006,4,frost_days,0.0,Frost days (≤0 °C)
+2006,5,frost_days,0.0,Frost days (≤0 °C)
+2006,6,frost_days,0.0,Frost days (≤0 °C)
+2006,7,frost_days,0.0,Frost days (≤0 °C)
+2006,8,frost_days,0.0,Frost days (≤0 °C)
+2006,9,frost_days,0.0,Frost days (≤0 °C)
+2006,10,frost_days,5.0,Frost days (≤0 °C)
+2006,11,frost_days,10.0,Frost days (≤0 °C)
+2006,12,frost_days,22.0,Frost days (≤0 °C)
+2007,1,frost_days,29.0,Frost days (≤0 °C)
+2007,2,frost_days,23.0,Frost days (≤0 °C)
+2007,3,frost_days,9.0,Frost days (≤0 °C)
+2007,4,frost_days,7.0,Frost days (≤0 °C)
+2007,5,frost_days,0.0,Frost days (≤0 °C)
+2007,6,frost_days,0.0,Frost days (≤0 °C)
+2007,7,frost_days,0.0,Frost days (≤0 °C)
+2007,8,frost_days,0.0,Frost days (≤0 °C)
+2007,9,frost_days,0.0,Frost days (≤0 °C)
+2007,10,frost_days,0.0,Frost days (≤0 °C)
+2007,11,frost_days,12.0,Frost days (≤0 °C)
+2007,12,frost_days,31.0,Frost days (≤0 °C)
+2008,1,frost_days,28.0,Frost days (≤0 °C)
+2008,2,frost_days,27.0,Frost days (≤0 °C)
+2008,3,frost_days,16.0,Frost days (≤0 °C)
+2008,4,frost_days,6.0,Frost days (≤0 °C)
+2008,5,frost_days,0.0,Frost days (≤0 °C)
+2008,6,frost_days,0.0,Frost days (≤0 °C)
+2008,7,frost_days,0.0,Frost days (≤0 °C)
+2008,8,frost_days,0.0,Frost days (≤0 °C)
+2008,9,frost_days,0.0,Frost days (≤0 °C)
+2008,10,frost_days,2.0,Frost days (≤0 °C)
+2008,11,frost_days,17.0,Frost days (≤0 °C)
+2008,12,frost_days,28.0,Frost days (≤0 °C)
+2009,1,frost_days,30.0,Frost days (≤0 °C)
+2009,2,frost_days,20.0,Frost days (≤0 °C)
+2009,3,frost_days,15.0,Frost days (≤0 °C)
+2009,4,frost_days,4.0,Frost days (≤0 °C)
+2009,5,frost_days,0.0,Frost days (≤0 °C)
+2009,6,frost_days,0.0,Frost days (≤0 °C)
+2009,7,frost_days,0.0,Frost days (≤0 °C)
+2009,8,frost_days,0.0,Frost days (≤0 °C)
+2009,9,frost_days,0.0,Frost days (≤0 °C)
+2009,10,frost_days,2.0,Frost days (≤0 °C)
+2009,11,frost_days,6.0,Frost days (≤0 °C)
+2009,12,frost_days,30.0,Frost days (≤0 °C)
+2010,1,frost_days,29.0,Frost days (≤0 °C)
+2010,2,frost_days,28.0,Frost days (≤0 °C)
+2010,3,frost_days,12.0,Frost days (≤0 °C)
+2010,4,frost_days,0.0,Frost days (≤0 °C)
+2010,5,frost_days,0.0,Frost days (≤0 °C)
+2010,6,frost_days,0.0,Frost days (≤0 °C)
+2010,7,frost_days,0.0,Frost days (≤0 °C)
+2010,8,frost_days,0.0,Frost days (≤0 °C)
+2010,9,frost_days,0.0,Frost days (≤0 °C)
+2010,10,frost_days,0.0,Frost days (≤0 °C)
+2010,11,frost_days,11.0,Frost days (≤0 °C)
+2010,12,frost_days,28.0,Frost days (≤0 °C)
+2011,1,frost_days,31.0,Frost days (≤0 °C)
+2011,2,frost_days,24.0,Frost days (≤0 °C)
+2011,3,frost_days,16.0,Frost days (≤0 °C)
+2011,4,frost_days,1.0,Frost days (≤0 °C)
+2011,5,frost_days,0.0,Frost days (≤0 °C)
+2011,6,frost_days,0.0,Frost days (≤0 °C)
+2011,7,frost_days,0.0,Frost days (≤0 °C)
+2011,8,frost_days,0.0,Frost days (≤0 °C)
+2011,9,frost_days,0.0,Frost days (≤0 °C)
+2011,10,frost_days,1.0,Frost days (≤0 °C)
+2011,11,frost_days,15.0,Frost days (≤0 °C)
+2011,12,frost_days,24.0,Frost days (≤0 °C)
+2012,1,frost_days,29.0,Frost days (≤0 °C)
+2012,2,frost_days,19.0,Frost days (≤0 °C)
+2012,3,frost_days,6.0,Frost days (≤0 °C)
+2012,4,frost_days,0.0,Frost days (≤0 °C)
+2012,5,frost_days,0.0,Frost days (≤0 °C)
+2012,6,frost_days,0.0,Frost days (≤0 °C)
+2012,7,frost_days,0.0,Frost days (≤0 °C)
+2012,8,frost_days,0.0,Frost days (≤0 °C)
+2012,9,frost_days,0.0,Frost days (≤0 °C)
+2012,10,frost_days,4.0,Frost days (≤0 °C)
+2012,11,frost_days,10.0,Frost days (≤0 °C)
+2012,12,frost_days,22.0,Frost days (≤0 °C)
+2013,1,frost_days,26.0,Frost days (≤0 °C)
+2013,2,frost_days,25.0,Frost days (≤0 °C)
+2013,3,frost_days,22.0,Frost days (≤0 °C)
+2013,4,frost_days,10.0,Frost days (≤0 °C)
+2013,5,frost_days,1.0,Frost days (≤0 °C)
+2013,6,frost_days,0.0,Frost days (≤0 °C)
+2013,7,frost_days,0.0,Frost days (≤0 °C)
+2013,8,frost_days,0.0,Frost days (≤0 °C)
+2013,9,frost_days,0.0,Frost days (≤0 °C)
+2013,10,frost_days,1.0,Frost days (≤0 °C)
+2013,11,frost_days,16.0,Frost days (≤0 °C)
+2013,12,frost_days,29.0,Frost days (≤0 °C)
+2014,1,frost_days,27.0,Frost days (≤0 °C)
+2014,2,frost_days,26.0,Frost days (≤0 °C)
+2014,3,frost_days,22.0,Frost days (≤0 °C)
+2014,4,frost_days,5.0,Frost days (≤0 °C)
+2014,5,frost_days,0.0,Frost days (≤0 °C)
+2014,6,frost_days,0.0,Frost days (≤0 °C)
+2014,7,frost_days,0.0,Frost days (≤0 °C)
+2014,8,frost_days,0.0,Frost days (≤0 °C)
+2014,9,frost_days,0.0,Frost days (≤0 °C)
+2014,10,frost_days,1.0,Frost days (≤0 °C)
+2014,11,frost_days,17.0,Frost days (≤0 °C)
+2014,12,frost_days,22.0,Frost days (≤0 °C)
+2015,1,frost_days,27.0,Frost days (≤0 °C)
+2015,2,frost_days,27.0,Frost days (≤0 °C)
+2015,3,frost_days,10.0,Frost days (≤0 °C)
+2015,4,frost_days,1.0,Frost days (≤0 °C)
+2015,5,frost_days,0.0,Frost days (≤0 °C)
+2015,6,frost_days,0.0,Frost days (≤0 °C)
+2015,7,frost_days,0.0,Frost days (≤0 °C)
+2015,8,frost_days,0.0,Frost days (≤0 °C)
+2015,9,frost_days,0.0,Frost days (≤0 °C)
+2015,10,frost_days,0.0,Frost days (≤0 °C)
+2015,11,frost_days,9.0,Frost days (≤0 °C)
+2015,12,frost_days,19.0,Frost days (≤0 °C)
+2016,1,frost_days,29.0,Frost days (≤0 °C)
+2016,2,frost_days,19.0,Frost days (≤0 °C)
+2016,3,frost_days,10.0,Frost days (≤0 °C)
+2016,4,frost_days,1.0,Frost days (≤0 °C)
+2016,5,frost_days,0.0,Frost days (≤0 °C)
+2016,6,frost_days,0.0,Frost days (≤0 °C)
+2016,7,frost_days,0.0,Frost days (≤0 °C)
+2016,8,frost_days,0.0,Frost days (≤0 °C)
+2016,9,frost_days,0.0,Frost days (≤0 °C)
+2016,10,frost_days,0.0,Frost days (≤0 °C)
+2016,11,frost_days,5.0,Frost days (≤0 °C)
+2016,12,frost_days,30.0,Frost days (≤0 °C)
+2017,1,frost_days,28.0,Frost days (≤0 °C)
+2017,2,frost_days,15.0,Frost days (≤0 °C)
+2017,3,frost_days,10.0,Frost days (≤0 °C)
+2017,4,frost_days,0.0,Frost days (≤0 °C)
+2017,5,frost_days,0.0,Frost days (≤0 °C)
+2017,6,frost_days,0.0,Frost days (≤0 °C)
+2017,7,frost_days,0.0,Frost days (≤0 °C)
+2017,8,frost_days,0.0,Frost days (≤0 °C)
+2017,9,frost_days,0.0,Frost days (≤0 °C)
+2017,10,frost_days,4.0,Frost days (≤0 °C)
+2017,11,frost_days,9.0,Frost days (≤0 °C)
+2017,12,frost_days,22.0,Frost days (≤0 °C)
+2018,1,frost_days,27.0,Frost days (≤0 °C)
+2018,2,frost_days,24.0,Frost days (≤0 °C)
+2018,3,frost_days,13.0,Frost days (≤0 °C)
+2018,4,frost_days,10.0,Frost days (≤0 °C)
+2018,5,frost_days,0.0,Frost days (≤0 °C)
+2018,6,frost_days,0.0,Frost days (≤0 °C)
+2018,7,frost_days,0.0,Frost days (≤0 °C)
+2018,8,frost_days,0.0,Frost days (≤0 °C)
+2018,9,frost_days,0.0,Frost days (≤0 °C)
+2018,10,frost_days,2.0,Frost days (≤0 °C)
+2018,11,frost_days,21.0,Frost days (≤0 °C)
+2018,12,frost_days,26.0,Frost days (≤0 °C)
+2019,1,frost_days,29.0,Frost days (≤0 °C)
+2019,2,frost_days,26.0,Frost days (≤0 °C)
+2019,3,frost_days,15.0,Frost days (≤0 °C)
+2019,4,frost_days,4.0,Frost days (≤0 °C)
+2019,5,frost_days,0.0,Frost days (≤0 °C)
+2019,6,frost_days,0.0,Frost days (≤0 °C)
+2019,7,frost_days,0.0,Frost days (≤0 °C)
+2019,8,frost_days,0.0,Frost days (≤0 °C)
+2019,9,frost_days,0.0,Frost days (≤0 °C)
+2019,10,frost_days,7.0,Frost days (≤0 °C)
+2019,11,frost_days,18.0,Frost days (≤0 °C)
+2019,12,frost_days,25.0,Frost days (≤0 °C)
+2020,1,frost_days,30.0,Frost days (≤0 °C)
+2020,2,frost_days,23.0,Frost days (≤0 °C)
+2020,3,frost_days,8.0,Frost days (≤0 °C)
+2020,4,frost_days,9.0,Frost days (≤0 °C)
+2020,5,frost_days,0.0,Frost days (≤0 °C)
+2020,6,frost_days,0.0,Frost days (≤0 °C)
+2020,7,frost_days,0.0,Frost days (≤0 °C)
+2020,8,frost_days,0.0,Frost days (≤0 °C)
+2020,9,frost_days,0.0,Frost days (≤0 °C)
+2020,10,frost_days,4.0,Frost days (≤0 °C)
+2020,11,frost_days,6.0,Frost days (≤0 °C)
+2020,12,frost_days,26.0,Frost days (≤0 °C)
+2021,1,frost_days,27.0,Frost days (≤0 °C)
+2021,2,frost_days,28.0,Frost days (≤0 °C)
+2021,3,frost_days,9.0,Frost days (≤0 °C)
+2021,4,frost_days,4.0,Frost days (≤0 °C)
+2021,5,frost_days,0.0,Frost days (≤0 °C)
+2021,6,frost_days,0.0,Frost days (≤0 °C)
+2021,7,frost_days,0.0,Frost days (≤0 °C)
+2021,8,frost_days,0.0,Frost days (≤0 °C)
+2021,9,frost_days,0.0,Frost days (≤0 °C)
+2021,10,frost_days,0.0,Frost days (≤0 °C)
+2021,11,frost_days,7.0,Frost days (≤0 °C)
+2021,12,frost_days,17.0,Frost days (≤0 °C)
+2022,1,frost_days,29.0,Frost days (≤0 °C)
+2022,2,frost_days,24.0,Frost days (≤0 °C)
+2022,3,frost_days,12.0,Frost days (≤0 °C)
+2022,4,frost_days,3.0,Frost days (≤0 °C)
+2022,5,frost_days,0.0,Frost days (≤0 °C)
+2022,6,frost_days,0.0,Frost days (≤0 °C)
+2022,7,frost_days,0.0,Frost days (≤0 °C)
+2022,8,frost_days,0.0,Frost days (≤0 °C)
+2022,9,frost_days,0.0,Frost days (≤0 °C)
+2022,10,frost_days,2.0,Frost days (≤0 °C)
+2022,11,frost_days,18.0,Frost days (≤0 °C)
+2022,12,frost_days,27.0,Frost days (≤0 °C)
+2023,1,frost_days,27.0,Frost days (≤0 °C)
+2023,2,frost_days,25.0,Frost days (≤0 °C)
+2023,3,frost_days,14.0,Frost days (≤0 °C)
+2023,4,frost_days,3.0,Frost days (≤0 °C)
+2023,5,frost_days,0.0,Frost days (≤0 °C)
+2023,6,frost_days,0.0,Frost days (≤0 °C)
+2023,7,frost_days,0.0,Frost days (≤0 °C)
+2023,8,frost_days,0.0,Frost days (≤0 °C)
+2023,9,frost_days,0.0,Frost days (≤0 °C)
+2023,10,frost_days,4.0,Frost days (≤0 °C)
+2023,11,frost_days,10.0,Frost days (≤0 °C)
+2023,12,frost_days,19.0,Frost days (≤0 °C)
+2024,1,frost_days,30.0,Frost days (≤0 °C)
+2024,2,frost_days,16.0,Frost days (≤0 °C)
+2024,3,frost_days,7.0,Frost days (≤0 °C)
+2024,4,frost_days,0.0,Frost days (≤0 °C)
+2024,5,frost_days,0.0,Frost days (≤0 °C)
+2024,6,frost_days,0.0,Frost days (≤0 °C)
+2024,7,frost_days,0.0,Frost days (≤0 °C)
+2024,8,frost_days,0.0,Frost days (≤0 °C)
+2024,9,frost_days,0.0,Frost days (≤0 °C)
+2024,10,frost_days,0.0,Frost days (≤0 °C)
+2024,11,frost_days,8.0,Frost days (≤0 °C)
+2024,12,frost_days,21.0,Frost days (≤0 °C)
+2025,1,frost_days,29.0,Frost days (≤0 °C)
+2025,2,frost_days,24.0,Frost days (≤0 °C)
+2025,3,frost_days,8.0,Frost days (≤0 °C)
+2025,4,frost_days,2.0,Frost days (≤0 °C)
+2025,5,frost_days,0.0,Frost days (≤0 °C)
+2025,6,frost_days,0.0,Frost days (≤0 °C)
+2025,7,frost_days,0.0,Frost days (≤0 °C)
+2025,8,frost_days,0.0,Frost days (≤0 °C)
+2025,9,frost_days,0.0,Frost days (≤0 °C)
+2025,10,frost_days,0.0,Frost days (≤0 °C)
+2025,11,frost_days,9.0,Frost days (≤0 °C)
+2025,12,frost_days,25.0,Frost days (≤0 °C)
+2005,1,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2005,2,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2005,3,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2005,4,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2005,5,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2005,6,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2005,7,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2005,8,heavy_rain_days,4.0,Heavy-rain days (≥25 mm)
+2005,9,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2005,10,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2005,11,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2005,12,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2006,1,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2006,2,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2006,3,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2006,4,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2006,5,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2006,6,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2006,7,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2006,8,heavy_rain_days,3.0,Heavy-rain days (≥25 mm)
+2006,9,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2006,10,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2006,11,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2006,12,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2007,1,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2007,2,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2007,3,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2007,4,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2007,5,heavy_rain_days,4.0,Heavy-rain days (≥25 mm)
+2007,6,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2007,7,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2007,8,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2007,9,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2007,10,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2007,11,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2007,12,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2008,1,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2008,2,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2008,3,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2008,4,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2008,5,heavy_rain_days,3.0,Heavy-rain days (≥25 mm)
+2008,6,heavy_rain_days,3.0,Heavy-rain days (≥25 mm)
+2008,7,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2008,8,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2008,9,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2008,10,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2008,11,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2008,12,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2009,1,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2009,2,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2009,3,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2009,4,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2009,5,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2009,6,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2009,7,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2009,8,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2009,9,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2009,10,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2009,11,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2009,12,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2010,1,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2010,2,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2010,3,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2010,4,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2010,5,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2010,6,heavy_rain_days,3.0,Heavy-rain days (≥25 mm)
+2010,7,heavy_rain_days,3.0,Heavy-rain days (≥25 mm)
+2010,8,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2010,9,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2010,10,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2010,11,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2010,12,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2011,1,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2011,2,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2011,3,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2011,4,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2011,5,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2011,6,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2011,7,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2011,8,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2011,9,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2011,10,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2011,11,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2011,12,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2012,1,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2012,2,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2012,3,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2012,4,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2012,5,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2012,6,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2012,7,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2012,8,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2012,9,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2012,10,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2012,11,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2012,12,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2013,1,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2013,2,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2013,3,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2013,4,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2013,5,heavy_rain_days,3.0,Heavy-rain days (≥25 mm)
+2013,6,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2013,7,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2013,8,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2013,9,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2013,10,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2013,11,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2013,12,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2014,1,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2014,2,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2014,3,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2014,4,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2014,5,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2014,6,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2014,7,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2014,8,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2014,9,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2014,10,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2014,11,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2014,12,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2015,1,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2015,2,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2015,3,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2015,4,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2015,5,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2015,6,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2015,7,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2015,8,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2015,9,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2015,10,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2015,11,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2015,12,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2016,1,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2016,2,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2016,3,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2016,4,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2016,5,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2016,6,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2016,7,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2016,8,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2016,9,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2016,10,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2016,11,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2016,12,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2017,1,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2017,2,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2017,3,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2017,4,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2017,5,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2017,6,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2017,7,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2017,8,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2017,9,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2017,10,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2017,11,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2017,12,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2018,1,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2018,2,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2018,3,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2018,4,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2018,5,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2018,6,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2018,7,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2018,8,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2018,9,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2018,10,heavy_rain_days,3.0,Heavy-rain days (≥25 mm)
+2018,11,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2018,12,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2019,1,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2019,2,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2019,3,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2019,4,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2019,5,heavy_rain_days,6.0,Heavy-rain days (≥25 mm)
+2019,6,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2019,7,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2019,8,heavy_rain_days,5.0,Heavy-rain days (≥25 mm)
+2019,9,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2019,10,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2019,11,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2019,12,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2020,1,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2020,2,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2020,3,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2020,4,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2020,5,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2020,6,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2020,7,heavy_rain_days,4.0,Heavy-rain days (≥25 mm)
+2020,8,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2020,9,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2020,10,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2020,11,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2020,12,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2021,1,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2021,2,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2021,3,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2021,4,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2021,5,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2021,6,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2021,7,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2021,8,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2021,9,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2021,10,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2021,11,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2021,12,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2022,1,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2022,2,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2022,3,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2022,4,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2022,5,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2022,6,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2022,7,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2022,8,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2022,9,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2022,10,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2022,11,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2022,12,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2023,1,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2023,2,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2023,3,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2023,4,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2023,5,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2023,6,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2023,7,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2023,8,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2023,9,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2023,10,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2023,11,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2023,12,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2024,1,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2024,2,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2024,3,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2024,4,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2024,5,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2024,6,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2024,7,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2024,8,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2024,9,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2024,10,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2024,11,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2024,12,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2025,1,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2025,2,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2025,3,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2025,4,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2025,5,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2025,6,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2025,7,heavy_rain_days,2.0,Heavy-rain days (≥25 mm)
+2025,8,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2025,9,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2025,10,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2025,11,heavy_rain_days,1.0,Heavy-rain days (≥25 mm)
+2025,12,heavy_rain_days,0.0,Heavy-rain days (≥25 mm)
+2005,2,ndvi,0.3168,Vegetation greenness (MODIS NDVI)
+2005,3,ndvi,0.2823,Vegetation greenness (MODIS NDVI)
+2005,4,ndvi,0.4292,Vegetation greenness (MODIS NDVI)
+2005,5,ndvi,0.4186,Vegetation greenness (MODIS NDVI)
+2005,6,ndvi,0.554,Vegetation greenness (MODIS NDVI)
+2005,7,ndvi,0.6124,Vegetation greenness (MODIS NDVI)
+2005,8,ndvi,0.5298,Vegetation greenness (MODIS NDVI)
+2005,9,ndvi,0.423,Vegetation greenness (MODIS NDVI)
+2005,10,ndvi,0.3501,Vegetation greenness (MODIS NDVI)
+2005,11,ndvi,0.3817,Vegetation greenness (MODIS NDVI)
+2005,12,ndvi,0.4188,Vegetation greenness (MODIS NDVI)
+2006,1,ndvi,0.4082,Vegetation greenness (MODIS NDVI)
+2006,2,ndvi,0.3872,Vegetation greenness (MODIS NDVI)
+2006,3,ndvi,0.3808,Vegetation greenness (MODIS NDVI)
+2006,4,ndvi,0.5032,Vegetation greenness (MODIS NDVI)
+2006,5,ndvi,0.4842,Vegetation greenness (MODIS NDVI)
+2006,6,ndvi,0.509,Vegetation greenness (MODIS NDVI)
+2006,7,ndvi,0.6974,Vegetation greenness (MODIS NDVI)
+2006,8,ndvi,0.635,Vegetation greenness (MODIS NDVI)
+2006,9,ndvi,0.7409,Vegetation greenness (MODIS NDVI)
+2006,10,ndvi,0.4168,Vegetation greenness (MODIS NDVI)
+2006,11,ndvi,0.4425,Vegetation greenness (MODIS NDVI)
+2006,12,ndvi,0.347,Vegetation greenness (MODIS NDVI)
+2007,1,ndvi,0.3734,Vegetation greenness (MODIS NDVI)
+2007,2,ndvi,0.2954,Vegetation greenness (MODIS NDVI)
+2007,3,ndvi,0.5382,Vegetation greenness (MODIS NDVI)
+2007,4,ndvi,0.7178,Vegetation greenness (MODIS NDVI)
+2007,5,ndvi,0.6844,Vegetation greenness (MODIS NDVI)
+2007,6,ndvi,0.5766,Vegetation greenness (MODIS NDVI)
+2007,7,ndvi,0.4586,Vegetation greenness (MODIS NDVI)
+2007,8,ndvi,0.7716,Vegetation greenness (MODIS NDVI)
+2007,9,ndvi,0.6691,Vegetation greenness (MODIS NDVI)
+2007,10,ndvi,0.5315,Vegetation greenness (MODIS NDVI)
+2007,11,ndvi,0.3798,Vegetation greenness (MODIS NDVI)
+2007,12,ndvi,0.3131,Vegetation greenness (MODIS NDVI)
+2008,1,ndvi,0.2697,Vegetation greenness (MODIS NDVI)
+2008,2,ndvi,0.2437,Vegetation greenness (MODIS NDVI)
+2008,3,ndvi,0.2762,Vegetation greenness (MODIS NDVI)
+2008,4,ndvi,0.4454,Vegetation greenness (MODIS NDVI)
+2008,5,ndvi,0.3703,Vegetation greenness (MODIS NDVI)
+2008,6,ndvi,0.4484,Vegetation greenness (MODIS NDVI)
+2008,7,ndvi,0.6878,Vegetation greenness (MODIS NDVI)
+2008,8,ndvi,0.8575,Vegetation greenness (MODIS NDVI)
+2008,9,ndvi,0.8012,Vegetation greenness (MODIS NDVI)
+2008,10,ndvi,0.4404,Vegetation greenness (MODIS NDVI)
+2008,11,ndvi,0.3618,Vegetation greenness (MODIS NDVI)
+2008,12,ndvi,0.2878,Vegetation greenness (MODIS NDVI)
+2009,1,ndvi,0.245,Vegetation greenness (MODIS NDVI)
+2009,2,ndvi,0.2476,Vegetation greenness (MODIS NDVI)
+2009,3,ndvi,0.3314,Vegetation greenness (MODIS NDVI)
+2009,4,ndvi,0.3835,Vegetation greenness (MODIS NDVI)
+2009,5,ndvi,0.4046,Vegetation greenness (MODIS NDVI)
+2009,6,ndvi,0.7389,Vegetation greenness (MODIS NDVI)
+2009,7,ndvi,0.8121,Vegetation greenness (MODIS NDVI)
+2009,8,ndvi,0.7327,Vegetation greenness (MODIS NDVI)
+2009,9,ndvi,0.514,Vegetation greenness (MODIS NDVI)
+2009,10,ndvi,0.3698,Vegetation greenness (MODIS NDVI)
+2009,11,ndvi,0.368,Vegetation greenness (MODIS NDVI)
+2009,12,ndvi,0.2913,Vegetation greenness (MODIS NDVI)
+2010,1,ndvi,0.3178,Vegetation greenness (MODIS NDVI)
+2010,2,ndvi,0.2776,Vegetation greenness (MODIS NDVI)
+2010,3,ndvi,0.2834,Vegetation greenness (MODIS NDVI)
+2010,4,ndvi,0.3824,Vegetation greenness (MODIS NDVI)
+2010,5,ndvi,0.4105,Vegetation greenness (MODIS NDVI)
+2010,6,ndvi,0.4924,Vegetation greenness (MODIS NDVI)
+2010,7,ndvi,0.8191,Vegetation greenness (MODIS NDVI)
+2010,8,ndvi,0.8266,Vegetation greenness (MODIS NDVI)
+2010,9,ndvi,0.711,Vegetation greenness (MODIS NDVI)
+2010,10,ndvi,0.3238,Vegetation greenness (MODIS NDVI)
+2010,11,ndvi,0.3642,Vegetation greenness (MODIS NDVI)
+2010,12,ndvi,0.2341,Vegetation greenness (MODIS NDVI)
+2011,1,ndvi,0.2297,Vegetation greenness (MODIS NDVI)
+2011,2,ndvi,0.2526,Vegetation greenness (MODIS NDVI)
+2011,3,ndvi,0.2294,Vegetation greenness (MODIS NDVI)
+2011,4,ndvi,0.2864,Vegetation greenness (MODIS NDVI)
+2011,5,ndvi,0.2768,Vegetation greenness (MODIS NDVI)
+2011,6,ndvi,0.6281,Vegetation greenness (MODIS NDVI)
+2011,7,ndvi,0.7543,Vegetation greenness (MODIS NDVI)
+2011,8,ndvi,0.4648,Vegetation greenness (MODIS NDVI)
+2011,9,ndvi,0.3137,Vegetation greenness (MODIS NDVI)
+2011,10,ndvi,0.2913,Vegetation greenness (MODIS NDVI)
+2011,11,ndvi,0.3062,Vegetation greenness (MODIS NDVI)
+2011,12,ndvi,0.2759,Vegetation greenness (MODIS NDVI)
+2012,1,ndvi,0.2484,Vegetation greenness (MODIS NDVI)
+2012,2,ndvi,0.2453,Vegetation greenness (MODIS NDVI)
+2012,3,ndvi,0.2598,Vegetation greenness (MODIS NDVI)
+2012,4,ndvi,0.319,Vegetation greenness (MODIS NDVI)
+2012,5,ndvi,0.3047,Vegetation greenness (MODIS NDVI)
+2012,6,ndvi,0.4289,Vegetation greenness (MODIS NDVI)
+2012,7,ndvi,0.6308,Vegetation greenness (MODIS NDVI)
+2012,8,ndvi,0.781,Vegetation greenness (MODIS NDVI)
+2012,9,ndvi,0.7862,Vegetation greenness (MODIS NDVI)
+2012,10,ndvi,0.4706,Vegetation greenness (MODIS NDVI)
+2012,11,ndvi,0.2732,Vegetation greenness (MODIS NDVI)
+2012,12,ndvi,0.2693,Vegetation greenness (MODIS NDVI)
+2013,1,ndvi,0.2305,Vegetation greenness (MODIS NDVI)
+2013,2,ndvi,0.2318,Vegetation greenness (MODIS NDVI)
+2013,3,ndvi,0.2324,Vegetation greenness (MODIS NDVI)
+2013,4,ndvi,0.2545,Vegetation greenness (MODIS NDVI)
+2013,5,ndvi,0.3106,Vegetation greenness (MODIS NDVI)
+2013,6,ndvi,0.6161,Vegetation greenness (MODIS NDVI)
+2013,7,ndvi,0.8444,Vegetation greenness (MODIS NDVI)
+2013,8,ndvi,0.8174,Vegetation greenness (MODIS NDVI)
+2013,9,ndvi,0.5531,Vegetation greenness (MODIS NDVI)
+2013,10,ndvi,0.2716,Vegetation greenness (MODIS NDVI)
+2013,11,ndvi,0.4184,Vegetation greenness (MODIS NDVI)
+2013,12,ndvi,0.3059,Vegetation greenness (MODIS NDVI)
+2014,1,ndvi,0.3082,Vegetation greenness (MODIS NDVI)
+2014,2,ndvi,0.3013,Vegetation greenness (MODIS NDVI)
+2014,3,ndvi,0.3337,Vegetation greenness (MODIS NDVI)
+2014,4,ndvi,0.4041,Vegetation greenness (MODIS NDVI)
+2014,5,ndvi,0.3016,Vegetation greenness (MODIS NDVI)
+2014,6,ndvi,0.3894,Vegetation greenness (MODIS NDVI)
+2014,7,ndvi,0.6761,Vegetation greenness (MODIS NDVI)
+2014,8,ndvi,0.7292,Vegetation greenness (MODIS NDVI)
+2014,9,ndvi,0.6543,Vegetation greenness (MODIS NDVI)
+2014,10,ndvi,0.3582,Vegetation greenness (MODIS NDVI)
+2014,11,ndvi,0.2485,Vegetation greenness (MODIS NDVI)
+2014,12,ndvi,0.2723,Vegetation greenness (MODIS NDVI)
+2015,1,ndvi,0.2228,Vegetation greenness (MODIS NDVI)
+2015,2,ndvi,0.2474,Vegetation greenness (MODIS NDVI)
+2015,3,ndvi,0.234,Vegetation greenness (MODIS NDVI)
+2015,4,ndvi,0.275,Vegetation greenness (MODIS NDVI)
+2015,5,ndvi,0.2976,Vegetation greenness (MODIS NDVI)
+2015,6,ndvi,0.6854,Vegetation greenness (MODIS NDVI)
+2015,7,ndvi,0.8568,Vegetation greenness (MODIS NDVI)
+2015,8,ndvi,0.7666,Vegetation greenness (MODIS NDVI)
+2015,9,ndvi,0.3868,Vegetation greenness (MODIS NDVI)
+2015,10,ndvi,0.3176,Vegetation greenness (MODIS NDVI)
+2015,11,ndvi,0.2493,Vegetation greenness (MODIS NDVI)
+2015,12,ndvi,0.259,Vegetation greenness (MODIS NDVI)
+2016,1,ndvi,0.2332,Vegetation greenness (MODIS NDVI)
+2016,2,ndvi,0.2169,Vegetation greenness (MODIS NDVI)
+2016,3,ndvi,0.2258,Vegetation greenness (MODIS NDVI)
+2016,4,ndvi,0.2772,Vegetation greenness (MODIS NDVI)
+2016,5,ndvi,0.3525,Vegetation greenness (MODIS NDVI)
+2016,6,ndvi,0.3279,Vegetation greenness (MODIS NDVI)
+2016,7,ndvi,0.7799,Vegetation greenness (MODIS NDVI)
+2016,8,ndvi,0.9226,Vegetation greenness (MODIS NDVI)
+2016,9,ndvi,0.8568,Vegetation greenness (MODIS NDVI)
+2016,10,ndvi,0.4168,Vegetation greenness (MODIS NDVI)
+2016,11,ndvi,0.2412,Vegetation greenness (MODIS NDVI)
+2016,12,ndvi,0.2286,Vegetation greenness (MODIS NDVI)
+2017,1,ndvi,0.2189,Vegetation greenness (MODIS NDVI)
+2017,2,ndvi,0.2267,Vegetation greenness (MODIS NDVI)
+2017,3,ndvi,0.2353,Vegetation greenness (MODIS NDVI)
+2017,4,ndvi,0.2477,Vegetation greenness (MODIS NDVI)
+2017,5,ndvi,0.3065,Vegetation greenness (MODIS NDVI)
+2017,6,ndvi,0.6714,Vegetation greenness (MODIS NDVI)
+2017,7,ndvi,0.8175,Vegetation greenness (MODIS NDVI)
+2017,8,ndvi,0.7041,Vegetation greenness (MODIS NDVI)
+2017,9,ndvi,0.545,Vegetation greenness (MODIS NDVI)
+2017,10,ndvi,0.3204,Vegetation greenness (MODIS NDVI)
+2017,11,ndvi,0.258,Vegetation greenness (MODIS NDVI)
+2017,12,ndvi,0.2372,Vegetation greenness (MODIS NDVI)
+2018,2,ndvi,0.2349,Vegetation greenness (MODIS NDVI)
+2018,3,ndvi,0.2434,Vegetation greenness (MODIS NDVI)
+2018,4,ndvi,0.2797,Vegetation greenness (MODIS NDVI)
+2018,5,ndvi,0.2753,Vegetation greenness (MODIS NDVI)
+2018,6,ndvi,0.3352,Vegetation greenness (MODIS NDVI)
+2018,7,ndvi,0.7174,Vegetation greenness (MODIS NDVI)
+2018,8,ndvi,0.816,Vegetation greenness (MODIS NDVI)
+2018,9,ndvi,0.8211,Vegetation greenness (MODIS NDVI)
+2018,10,ndvi,0.473,Vegetation greenness (MODIS NDVI)
+2018,11,ndvi,0.2204,Vegetation greenness (MODIS NDVI)
+2018,12,ndvi,0.2026,Vegetation greenness (MODIS NDVI)
+2019,1,ndvi,0.1992,Vegetation greenness (MODIS NDVI)
+2019,2,ndvi,0.1909,Vegetation greenness (MODIS NDVI)
+2019,3,ndvi,0.2296,Vegetation greenness (MODIS NDVI)
+2019,4,ndvi,0.2423,Vegetation greenness (MODIS NDVI)
+2019,5,ndvi,0.3218,Vegetation greenness (MODIS NDVI)
+2019,6,ndvi,0.6134,Vegetation greenness (MODIS NDVI)
+2019,7,ndvi,0.8592,Vegetation greenness (MODIS NDVI)
+2019,8,ndvi,0.8012,Vegetation greenness (MODIS NDVI)
+2019,9,ndvi,0.6212,Vegetation greenness (MODIS NDVI)
+2019,10,ndvi,0.3502,Vegetation greenness (MODIS NDVI)
+2019,12,ndvi,0.2276,Vegetation greenness (MODIS NDVI)
+2020,1,ndvi,0.2114,Vegetation greenness (MODIS NDVI)
+2020,2,ndvi,0.2182,Vegetation greenness (MODIS NDVI)
+2020,3,ndvi,0.2564,Vegetation greenness (MODIS NDVI)
+2020,4,ndvi,0.2804,Vegetation greenness (MODIS NDVI)
+2020,5,ndvi,0.2651,Vegetation greenness (MODIS NDVI)
+2020,6,ndvi,0.4182,Vegetation greenness (MODIS NDVI)
+2020,7,ndvi,0.8614,Vegetation greenness (MODIS NDVI)
+2020,8,ndvi,0.9034,Vegetation greenness (MODIS NDVI)
+2020,9,ndvi,0.6281,Vegetation greenness (MODIS NDVI)
+2020,10,ndvi,0.3343,Vegetation greenness (MODIS NDVI)
+2020,11,ndvi,0.233,Vegetation greenness (MODIS NDVI)
+2020,12,ndvi,0.2384,Vegetation greenness (MODIS NDVI)
+2021,1,ndvi,0.2215,Vegetation greenness (MODIS NDVI)
+2021,2,ndvi,0.2205,Vegetation greenness (MODIS NDVI)
+2021,3,ndvi,0.2214,Vegetation greenness (MODIS NDVI)
+2021,5,ndvi,0.2944,Vegetation greenness (MODIS NDVI)
+2021,6,ndvi,0.5726,Vegetation greenness (MODIS NDVI)
+2021,7,ndvi,0.835,Vegetation greenness (MODIS NDVI)
+2021,8,ndvi,0.6922,Vegetation greenness (MODIS NDVI)
+2021,9,ndvi,0.4388,Vegetation greenness (MODIS NDVI)
+2021,10,ndvi,0.2845,Vegetation greenness (MODIS NDVI)
+2021,11,ndvi,0.2279,Vegetation greenness (MODIS NDVI)
+2021,12,ndvi,0.2968,Vegetation greenness (MODIS NDVI)
+2022,1,ndvi,0.24,Vegetation greenness (MODIS NDVI)
+2022,2,ndvi,0.2414,Vegetation greenness (MODIS NDVI)
+2022,3,ndvi,0.2276,Vegetation greenness (MODIS NDVI)
+2022,4,ndvi,0.3034,Vegetation greenness (MODIS NDVI)
+2022,5,ndvi,0.2386,Vegetation greenness (MODIS NDVI)
+2022,6,ndvi,0.3621,Vegetation greenness (MODIS NDVI)
+2022,7,ndvi,0.739,Vegetation greenness (MODIS NDVI)
+2022,8,ndvi,0.892,Vegetation greenness (MODIS NDVI)
+2022,9,ndvi,0.7126,Vegetation greenness (MODIS NDVI)
+2022,10,ndvi,0.3005,Vegetation greenness (MODIS NDVI)
+2022,11,ndvi,0.2256,Vegetation greenness (MODIS NDVI)
+2022,12,ndvi,0.2304,Vegetation greenness (MODIS NDVI)
+2023,1,ndvi,0.2395,Vegetation greenness (MODIS NDVI)
+2023,2,ndvi,0.1976,Vegetation greenness (MODIS NDVI)
+2023,3,ndvi,0.2124,Vegetation greenness (MODIS NDVI)
+2023,4,ndvi,0.2479,Vegetation greenness (MODIS NDVI)
+2023,5,ndvi,0.3056,Vegetation greenness (MODIS NDVI)
+2023,6,ndvi,0.581,Vegetation greenness (MODIS NDVI)
+2023,7,ndvi,0.8552,Vegetation greenness (MODIS NDVI)
+2023,8,ndvi,0.6392,Vegetation greenness (MODIS NDVI)
+2023,9,ndvi,0.3094,Vegetation greenness (MODIS NDVI)
+2023,10,ndvi,0.2386,Vegetation greenness (MODIS NDVI)
+2023,11,ndvi,0.2167,Vegetation greenness (MODIS NDVI)
+2023,12,ndvi,0.2398,Vegetation greenness (MODIS NDVI)
+2024,1,ndvi,0.1985,Vegetation greenness (MODIS NDVI)
+2024,2,ndvi,0.2044,Vegetation greenness (MODIS NDVI)
+2024,3,ndvi,0.2279,Vegetation greenness (MODIS NDVI)
+2024,4,ndvi,0.2277,Vegetation greenness (MODIS NDVI)
+2024,5,ndvi,0.2514,Vegetation greenness (MODIS NDVI)
+2024,6,ndvi,0.4477,Vegetation greenness (MODIS NDVI)
+2024,7,ndvi,0.8497,Vegetation greenness (MODIS NDVI)
+2024,8,ndvi,0.8774,Vegetation greenness (MODIS NDVI)
+2024,9,ndvi,0.7168,Vegetation greenness (MODIS NDVI)
+2024,10,ndvi,0.3366,Vegetation greenness (MODIS NDVI)
+2024,11,ndvi,0.2262,Vegetation greenness (MODIS NDVI)
+2024,12,ndvi,0.2178,Vegetation greenness (MODIS NDVI)
+2025,1,ndvi,0.2197,Vegetation greenness (MODIS NDVI)
+2025,2,ndvi,0.2272,Vegetation greenness (MODIS NDVI)
+2025,3,ndvi,0.2376,Vegetation greenness (MODIS NDVI)
+2025,4,ndvi,0.2754,Vegetation greenness (MODIS NDVI)
+2025,5,ndvi,0.4117,Vegetation greenness (MODIS NDVI)
+2025,6,ndvi,0.6984,Vegetation greenness (MODIS NDVI)
+2025,7,ndvi,0.8852,Vegetation greenness (MODIS NDVI)
+2025,8,ndvi,0.8064,Vegetation greenness (MODIS NDVI)
+2025,9,ndvi,0.3545,Vegetation greenness (MODIS NDVI)
+2025,10,ndvi,0.3842,Vegetation greenness (MODIS NDVI)
+2025,11,ndvi,0.3127,Vegetation greenness (MODIS NDVI)
+2025,12,ndvi,0.2817,Vegetation greenness (MODIS NDVI)
+2015,3,smap_soil_moisture_m3m3,0.2195,"Soil moisture (SMAP), m³/m³"
+2015,4,smap_soil_moisture_m3m3,0.2276,"Soil moisture (SMAP), m³/m³"
+2015,5,smap_soil_moisture_m3m3,0.3083,"Soil moisture (SMAP), m³/m³"
+2015,6,smap_soil_moisture_m3m3,0.2491,"Soil moisture (SMAP), m³/m³"
+2015,7,smap_soil_moisture_m3m3,0.2402,"Soil moisture (SMAP), m³/m³"
+2015,8,smap_soil_moisture_m3m3,0.2067,"Soil moisture (SMAP), m³/m³"
+2015,9,smap_soil_moisture_m3m3,0.2039,"Soil moisture (SMAP), m³/m³"
+2015,10,smap_soil_moisture_m3m3,0.1558,"Soil moisture (SMAP), m³/m³"
+2015,11,smap_soil_moisture_m3m3,0.2412,"Soil moisture (SMAP), m³/m³"
+2015,12,smap_soil_moisture_m3m3,0.2981,"Soil moisture (SMAP), m³/m³"
+2016,1,smap_soil_moisture_m3m3,0.2248,"Soil moisture (SMAP), m³/m³"
+2016,2,smap_soil_moisture_m3m3,0.2463,"Soil moisture (SMAP), m³/m³"
+2016,3,smap_soil_moisture_m3m3,0.1996,"Soil moisture (SMAP), m³/m³"
+2016,4,smap_soil_moisture_m3m3,0.2283,"Soil moisture (SMAP), m³/m³"
+2016,5,smap_soil_moisture_m3m3,0.2614,"Soil moisture (SMAP), m³/m³"
+2016,6,smap_soil_moisture_m3m3,0.1409,"Soil moisture (SMAP), m³/m³"
+2016,7,smap_soil_moisture_m3m3,0.2197,"Soil moisture (SMAP), m³/m³"
+2016,8,smap_soil_moisture_m3m3,0.2387,"Soil moisture (SMAP), m³/m³"
+2016,9,smap_soil_moisture_m3m3,0.2418,"Soil moisture (SMAP), m³/m³"
+2016,10,smap_soil_moisture_m3m3,0.2588,"Soil moisture (SMAP), m³/m³"
+2016,11,smap_soil_moisture_m3m3,0.2203,"Soil moisture (SMAP), m³/m³"
+2016,12,smap_soil_moisture_m3m3,0.2329,"Soil moisture (SMAP), m³/m³"
+2017,1,smap_soil_moisture_m3m3,0.2805,"Soil moisture (SMAP), m³/m³"
+2017,2,smap_soil_moisture_m3m3,0.2394,"Soil moisture (SMAP), m³/m³"
+2017,3,smap_soil_moisture_m3m3,0.2354,"Soil moisture (SMAP), m³/m³"
+2017,4,smap_soil_moisture_m3m3,0.3023,"Soil moisture (SMAP), m³/m³"
+2017,5,smap_soil_moisture_m3m3,0.247,"Soil moisture (SMAP), m³/m³"
+2017,6,smap_soil_moisture_m3m3,0.1839,"Soil moisture (SMAP), m³/m³"
+2017,7,smap_soil_moisture_m3m3,0.1871,"Soil moisture (SMAP), m³/m³"
+2017,8,smap_soil_moisture_m3m3,0.221,"Soil moisture (SMAP), m³/m³"
+2017,9,smap_soil_moisture_m3m3,0.1793,"Soil moisture (SMAP), m³/m³"
+2017,10,smap_soil_moisture_m3m3,0.2498,"Soil moisture (SMAP), m³/m³"
+2017,11,smap_soil_moisture_m3m3,0.1666,"Soil moisture (SMAP), m³/m³"
+2017,12,smap_soil_moisture_m3m3,0.1449,"Soil moisture (SMAP), m³/m³"
+2018,1,smap_soil_moisture_m3m3,0.1965,"Soil moisture (SMAP), m³/m³"
+2018,2,smap_soil_moisture_m3m3,0.1941,"Soil moisture (SMAP), m³/m³"
+2018,3,smap_soil_moisture_m3m3,0.2127,"Soil moisture (SMAP), m³/m³"
+2018,4,smap_soil_moisture_m3m3,0.2231,"Soil moisture (SMAP), m³/m³"
+2018,5,smap_soil_moisture_m3m3,0.2119,"Soil moisture (SMAP), m³/m³"
+2018,6,smap_soil_moisture_m3m3,0.1942,"Soil moisture (SMAP), m³/m³"
+2018,7,smap_soil_moisture_m3m3,0.1886,"Soil moisture (SMAP), m³/m³"
+2018,8,smap_soil_moisture_m3m3,0.233,"Soil moisture (SMAP), m³/m³"
+2018,9,smap_soil_moisture_m3m3,0.258,"Soil moisture (SMAP), m³/m³"
+2018,10,smap_soil_moisture_m3m3,0.3226,"Soil moisture (SMAP), m³/m³"
+2018,11,smap_soil_moisture_m3m3,0.2811,"Soil moisture (SMAP), m³/m³"
+2018,12,smap_soil_moisture_m3m3,0.2666,"Soil moisture (SMAP), m³/m³"
+2019,1,smap_soil_moisture_m3m3,0.2483,"Soil moisture (SMAP), m³/m³"
+2019,2,smap_soil_moisture_m3m3,0.2506,"Soil moisture (SMAP), m³/m³"
+2019,3,smap_soil_moisture_m3m3,0.3452,"Soil moisture (SMAP), m³/m³"
+2019,4,smap_soil_moisture_m3m3,0.2577,"Soil moisture (SMAP), m³/m³"
+2019,5,smap_soil_moisture_m3m3,0.3468,"Soil moisture (SMAP), m³/m³"
+2019,6,smap_soil_moisture_m3m3,0.2285,"Soil moisture (SMAP), m³/m³"
+2019,7,smap_soil_moisture_m3m3,0.1268,"Soil moisture (SMAP), m³/m³"
+2019,8,smap_soil_moisture_m3m3,0.2582,"Soil moisture (SMAP), m³/m³"
+2019,9,smap_soil_moisture_m3m3,0.2135,"Soil moisture (SMAP), m³/m³"
+2019,10,smap_soil_moisture_m3m3,0.28,"Soil moisture (SMAP), m³/m³"
+2019,11,smap_soil_moisture_m3m3,0.2316,"Soil moisture (SMAP), m³/m³"
+2019,12,smap_soil_moisture_m3m3,0.2806,"Soil moisture (SMAP), m³/m³"
+2020,1,smap_soil_moisture_m3m3,0.2871,"Soil moisture (SMAP), m³/m³"
+2020,2,smap_soil_moisture_m3m3,0.2842,"Soil moisture (SMAP), m³/m³"
+2020,3,smap_soil_moisture_m3m3,0.3079,"Soil moisture (SMAP), m³/m³"
+2020,4,smap_soil_moisture_m3m3,0.255,"Soil moisture (SMAP), m³/m³"
+2020,5,smap_soil_moisture_m3m3,0.2707,"Soil moisture (SMAP), m³/m³"
+2020,6,smap_soil_moisture_m3m3,0.1919,"Soil moisture (SMAP), m³/m³"
+2020,7,smap_soil_moisture_m3m3,0.2206,"Soil moisture (SMAP), m³/m³"
+2020,8,smap_soil_moisture_m3m3,0.2036,"Soil moisture (SMAP), m³/m³"
+2020,9,smap_soil_moisture_m3m3,0.2172,"Soil moisture (SMAP), m³/m³"
+2020,10,smap_soil_moisture_m3m3,0.1822,"Soil moisture (SMAP), m³/m³"
+2020,11,smap_soil_moisture_m3m3,0.2278,"Soil moisture (SMAP), m³/m³"
+2020,12,smap_soil_moisture_m3m3,0.2233,"Soil moisture (SMAP), m³/m³"
+2021,1,smap_soil_moisture_m3m3,0.2457,"Soil moisture (SMAP), m³/m³"
+2021,2,smap_soil_moisture_m3m3,0.2391,"Soil moisture (SMAP), m³/m³"
+2021,3,smap_soil_moisture_m3m3,0.27,"Soil moisture (SMAP), m³/m³"
+2021,4,smap_soil_moisture_m3m3,0.2745,"Soil moisture (SMAP), m³/m³"
+2021,5,smap_soil_moisture_m3m3,0.2789,"Soil moisture (SMAP), m³/m³"
+2021,6,smap_soil_moisture_m3m3,0.1985,"Soil moisture (SMAP), m³/m³"
+2021,7,smap_soil_moisture_m3m3,0.1913,"Soil moisture (SMAP), m³/m³"
+2021,8,smap_soil_moisture_m3m3,0.1718,"Soil moisture (SMAP), m³/m³"
+2021,9,smap_soil_moisture_m3m3,0.1806,"Soil moisture (SMAP), m³/m³"
+2021,10,smap_soil_moisture_m3m3,0.2043,"Soil moisture (SMAP), m³/m³"
+2021,11,smap_soil_moisture_m3m3,0.2465,"Soil moisture (SMAP), m³/m³"
+2021,12,smap_soil_moisture_m3m3,0.189,"Soil moisture (SMAP), m³/m³"
+2022,1,smap_soil_moisture_m3m3,0.2005,"Soil moisture (SMAP), m³/m³"
+2022,2,smap_soil_moisture_m3m3,0.1869,"Soil moisture (SMAP), m³/m³"
+2022,3,smap_soil_moisture_m3m3,0.2447,"Soil moisture (SMAP), m³/m³"
+2022,4,smap_soil_moisture_m3m3,0.1963,"Soil moisture (SMAP), m³/m³"
+2022,5,smap_soil_moisture_m3m3,0.2653,"Soil moisture (SMAP), m³/m³"
+2022,6,smap_soil_moisture_m3m3,0.2567,"Soil moisture (SMAP), m³/m³"
+2022,7,smap_soil_moisture_m3m3,0.1976,"Soil moisture (SMAP), m³/m³"
+2022,8,smap_soil_moisture_m3m3,0.196,"Soil moisture (SMAP), m³/m³"
+2022,9,smap_soil_moisture_m3m3,0.2292,"Soil moisture (SMAP), m³/m³"
+2022,10,smap_soil_moisture_m3m3,0.1948,"Soil moisture (SMAP), m³/m³"
+2022,11,smap_soil_moisture_m3m3,0.2418,"Soil moisture (SMAP), m³/m³"
+2022,12,smap_soil_moisture_m3m3,0.2375,"Soil moisture (SMAP), m³/m³"
+2023,1,smap_soil_moisture_m3m3,0.2617,"Soil moisture (SMAP), m³/m³"
+2023,2,smap_soil_moisture_m3m3,0.2365,"Soil moisture (SMAP), m³/m³"
+2023,3,smap_soil_moisture_m3m3,0.2522,"Soil moisture (SMAP), m³/m³"
+2023,4,smap_soil_moisture_m3m3,0.236,"Soil moisture (SMAP), m³/m³"
+2023,5,smap_soil_moisture_m3m3,0.224,"Soil moisture (SMAP), m³/m³"
+2023,6,smap_soil_moisture_m3m3,0.2228,"Soil moisture (SMAP), m³/m³"
+2023,7,smap_soil_moisture_m3m3,0.1934,"Soil moisture (SMAP), m³/m³"
+2023,8,smap_soil_moisture_m3m3,0.1688,"Soil moisture (SMAP), m³/m³"
+2023,9,smap_soil_moisture_m3m3,0.1775,"Soil moisture (SMAP), m³/m³"
+2023,10,smap_soil_moisture_m3m3,0.1963,"Soil moisture (SMAP), m³/m³"
+2023,11,smap_soil_moisture_m3m3,0.2201,"Soil moisture (SMAP), m³/m³"
+2023,12,smap_soil_moisture_m3m3,0.2756,"Soil moisture (SMAP), m³/m³"
+2024,1,smap_soil_moisture_m3m3,0.2814,"Soil moisture (SMAP), m³/m³"
+2024,2,smap_soil_moisture_m3m3,0.2897,"Soil moisture (SMAP), m³/m³"
+2024,3,smap_soil_moisture_m3m3,0.2377,"Soil moisture (SMAP), m³/m³"
+2024,4,smap_soil_moisture_m3m3,0.24,"Soil moisture (SMAP), m³/m³"
+2024,5,smap_soil_moisture_m3m3,0.2661,"Soil moisture (SMAP), m³/m³"
+2024,6,smap_soil_moisture_m3m3,0.2312,"Soil moisture (SMAP), m³/m³"
+2024,7,smap_soil_moisture_m3m3,0.2084,"Soil moisture (SMAP), m³/m³"
+2024,8,smap_soil_moisture_m3m3,0.2218,"Soil moisture (SMAP), m³/m³"
+2024,9,smap_soil_moisture_m3m3,0.1838,"Soil moisture (SMAP), m³/m³"
+2024,10,smap_soil_moisture_m3m3,0.1527,"Soil moisture (SMAP), m³/m³"
+2024,11,smap_soil_moisture_m3m3,0.3105,"Soil moisture (SMAP), m³/m³"
+2024,12,smap_soil_moisture_m3m3,0.2444,"Soil moisture (SMAP), m³/m³"
+2025,1,smap_soil_moisture_m3m3,0.2336,"Soil moisture (SMAP), m³/m³"
+2025,2,smap_soil_moisture_m3m3,0.2814,"Soil moisture (SMAP), m³/m³"
+2025,3,smap_soil_moisture_m3m3,0.2492,"Soil moisture (SMAP), m³/m³"
+2025,4,smap_soil_moisture_m3m3,0.2648,"Soil moisture (SMAP), m³/m³"
+2025,5,smap_soil_moisture_m3m3,0.2381,"Soil moisture (SMAP), m³/m³"
+2025,6,smap_soil_moisture_m3m3,0.2399,"Soil moisture (SMAP), m³/m³"
+2025,7,smap_soil_moisture_m3m3,0.199,"Soil moisture (SMAP), m³/m³"
+2025,8,smap_soil_moisture_m3m3,0.1902,"Soil moisture (SMAP), m³/m³"
+2025,9,smap_soil_moisture_m3m3,0.2335,"Soil moisture (SMAP), m³/m³"
+2025,10,smap_soil_moisture_m3m3,0.2359,"Soil moisture (SMAP), m³/m³"
+2025,11,smap_soil_moisture_m3m3,0.2509,"Soil moisture (SMAP), m³/m³"
+2025,12,smap_soil_moisture_m3m3,0.2507,"Soil moisture (SMAP), m³/m³"

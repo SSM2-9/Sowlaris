@@ -1,0 +1,2 @@
+lat,lon,elevation_m,srtm_tile,swath_count,acquired,note
+39.12,-96.63,322.0,N39W097,203.0,2000-02-11,Point elevation only; slope is taken from SSURGO map-unit slope classes (0–1 % and 1–3 %).

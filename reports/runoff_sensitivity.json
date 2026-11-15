@@ -1,0 +1,134 @@
+{
+  "note": "Experimental. Production scoring uses no runoff. Matching ECOSTRESS better is not validation.",
+  "ecostress_observed_median_et_to_et0": 0.525,
+  "scenarios": [
+    {
+      "scenario": "none (production)",
+      "curve_numbers": null,
+      "runoff_mm_per_year": 0.0,
+      "runoff_share_of_rain": 0.0,
+      "water_conservation_error_mm": -0.0,
+      "ecostress_days_modelled_median_et_to_et0": 0.706,
+      "mean_storage_mm": 93.0,
+      "r_smap_monthly": 0.598,
+      "r_yield": {
+        "corn": 0.784,
+        "soybean": 0.757,
+        "sorghum": 0.689
+      },
+      "cash_shortfall_mm_per_year": {
+        "current_corn_soy": 103,
+        "corn_soy_covers": 103,
+        "corn_soy_rye": 103,
+        "sorghum_soy_vetch": 64,
+        "sorghum_soy_wheat_dc": 66,
+        "corn_soy_wheat_vetch": 74,
+        "alfalfa_corn_soy": 105
+      },
+      "default_pair": [
+        "corn_soy_wheat_vetch",
+        "alfalfa_corn_soy"
+      ],
+      "top2_changed_vs_production": 0
+    },
+    {
+      "scenario": "HSG C, good condition",
+      "curve_numbers": {
+        "row": 82,
+        "close": 81,
+        "bare": 88
+      },
+      "runoff_mm_per_year": 128.0,
+      "runoff_share_of_rain": 0.142,
+      "water_conservation_error_mm": -0.0,
+      "ecostress_days_modelled_median_et_to_et0": 0.621,
+      "mean_storage_mm": 88.2,
+      "r_smap_monthly": 0.618,
+      "r_yield": {
+        "corn": 0.754,
+        "soybean": 0.728,
+        "sorghum": 0.75
+      },
+      "cash_shortfall_mm_per_year": {
+        "current_corn_soy": 125,
+        "corn_soy_covers": 125,
+        "corn_soy_rye": 125,
+        "sorghum_soy_vetch": 80,
+        "sorghum_soy_wheat_dc": 84,
+        "corn_soy_wheat_vetch": 90,
+        "alfalfa_corn_soy": 131
+      },
+      "default_pair": [
+        "corn_soy_wheat_vetch",
+        "alfalfa_corn_soy"
+      ],
+      "top2_changed_vs_production": 4
+    },
+    {
+      "scenario": "HSG D, good condition",
+      "curve_numbers": {
+        "row": 85,
+        "close": 85,
+        "bare": 90
+      },
+      "runoff_mm_per_year": 166.0,
+      "runoff_share_of_rain": 0.184,
+      "water_conservation_error_mm": -0.0,
+      "ecostress_days_modelled_median_et_to_et0": 0.594,
+      "mean_storage_mm": 86.5,
+      "r_smap_monthly": 0.616,
+      "r_yield": {
+        "corn": 0.734,
+        "soybean": 0.723,
+        "sorghum": 0.773
+      },
+      "cash_shortfall_mm_per_year": {
+        "current_corn_soy": 135,
+        "corn_soy_covers": 136,
+        "corn_soy_rye": 136,
+        "sorghum_soy_vetch": 88,
+        "sorghum_soy_wheat_dc": 94,
+        "corn_soy_wheat_vetch": 99,
+        "alfalfa_corn_soy": 148
+      },
+      "default_pair": [
+        "corn_soy_wheat_vetch",
+        "alfalfa_corn_soy"
+      ],
+      "top2_changed_vs_production": 14
+    },
+    {
+      "scenario": "HSG D, poor condition",
+      "curve_numbers": {
+        "row": 91,
+        "close": 89,
+        "bare": 94
+      },
+      "runoff_mm_per_year": 286.0,
+      "runoff_share_of_rain": 0.317,
+      "water_conservation_error_mm": -0.0,
+      "ecostress_days_modelled_median_et_to_et0": 0.486,
+      "mean_storage_mm": 79.6,
+      "r_smap_monthly": 0.603,
+      "r_yield": {
+        "corn": 0.691,
+        "soybean": 0.679,
+        "sorghum": 0.843
+      },
+      "cash_shortfall_mm_per_year": {
+        "current_corn_soy": 181,
+        "corn_soy_covers": 181,
+        "corn_soy_rye": 182,
+        "sorghum_soy_vetch": 124,
+        "sorghum_soy_wheat_dc": 134,
+        "corn_soy_wheat_vetch": 133,
+        "alfalfa_corn_soy": 192
+      },
+      "default_pair": [
+        "corn_soy_wheat_vetch",
+        "alfalfa_corn_soy"
+      ],
+      "top2_changed_vs_production": 16
+    }
+  ]
+}

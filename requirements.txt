@@ -1,0 +1,14 @@
+# Field Shift — NASA Space Apps Challenge 2026
+streamlit>=1.50
+plotly>=6.0
+pandas>=2.2
+numpy>=2.0
+scikit-learn>=1.5
+scipy>=1.13
+pytest>=8.0
+# Sowlaris interface
+folium
+streamlit-folium
+geopy
+pillow
+extra-streamlit-components

@@ -1,0 +1,383 @@
+{
+  "version": "2.0.1",
+  "farm": {
+    "name": "Demonstration farm, Riley County, Kansas, USA",
+    "lat": 39.12,
+    "lon": -96.63,
+    "albers_x": -53966,
+    "albers_y": 1788539,
+    "county": "Riley",
+    "state": "Kansas",
+    "ssurgo_aoi_acres": 18.7
+  },
+  "period": [
+    2005,
+    2025
+  ],
+  "steps": {
+    "power": {
+      "days": 7670,
+      "missing_values": 0,
+      "first": "2005-01-01",
+      "last": "2025-12-31"
+    },
+    "usda_fao": {
+      "cdl_years": 20,
+      "soil_map_units": 4,
+      "gaez_crops": 25,
+      "nass_rows": 2931,
+      "nass_years_wide": 21
+    },
+    "satellite": {
+      "skipped_optional": [],
+      "smap_days_with_data": 2613,
+      "smap_period": [
+        "2015-03-31",
+        "2025-12-31"
+      ],
+      "modis_composites_kept": 563,
+      "modis_composites_total": 595,
+      "ecostress_lst_clear_overpasses": 589,
+      "ecostress_lst_daytime": 260,
+      "ecostress_et_overpasses": 279,
+      "elevation_m": 322.0
+    },
+    "master_table": {
+      "rows": 252,
+      "columns": 49
+    },
+    "analysis": {
+      "significant_trends": [
+        "Peak summer NDVI (MODIS, Jun\u2013Aug max)",
+        "Winter NDVI (MODIS, Dec\u2013Feb mean)"
+      ],
+      "k_regimes": 2
+    },
+    "yield_model": {
+      "best": "Random Forest",
+      "scores": {
+        "Baseline (always 100% of normal)": {
+          "MAE_pct_points": 15.42,
+          "R2": -0.002
+        },
+        "Ridge regression": {
+          "MAE_pct_points": 13.06,
+          "R2": 0.3
+        },
+        "Random Forest": {
+          "MAE_pct_points": 11.26,
+          "R2": 0.439
+        }
+      }
+    },
+    "recommendation": {
+      "ranking": [
+        "Corn \u2192 Soybean with winter cover crops",
+        "Corn \u2192 Soybean \u2192 Winter wheat + hairy vetch",
+        "Alfalfa (3 yrs) \u2192 Corn \u2192 Soybean",
+        "Sorghum \u2192 Soybean with a legume cover crop",
+        "Sorghum \u2192 Soybean \u2192 Winter wheat + double-crop soybean",
+        "Corn \u2192 Soybean + cereal rye cover",
+        "Current: Corn \u2192 Soybean"
+      ],
+      "top_alternative": "Corn \u2192 Soybean \u2192 Winter wheat + hairy vetch"
+    },
+    "water_balance_validation": {
+      "et0": {
+        "may_sep_hargreaves_mm": 769.0,
+        "may_sep_penman_monteith_mm": 789.0,
+        "ratio": 0.975
+      },
+      "ecostress_matched": {
+        "available": true,
+        "n_overpass_days": 64,
+        "observed_median_et_to_et0": 0.525,
+        "et0_on_overpass_days_mm": 5.61,
+        "et0_all_jul_aug_days_mm": 5.51
+      },
+      "storage_settings": [
+        {
+          "setting": "claypan-limited (used)",
+          "taw_corn_root_zone_mm": 109.0,
+          "modelled_median_et_to_et0": 0.706,
+          "r_smap_monthly": 0.598,
+          "r_smap_anomaly": 0.467,
+          "r_yield_corn": 0.784,
+          "n_corn": 14,
+          "r_yield_soybean": 0.757,
+          "n_soybean": 16,
+          "r_yield_sorghum": 0.689,
+          "n_sorghum": 10
+        },
+        {
+          "setting": "claypan-limited \u00d70.5",
+          "taw_corn_root_zone_mm": 54.0,
+          "modelled_median_et_to_et0": 0.649,
+          "r_smap_monthly": 0.622,
+          "r_smap_anomaly": 0.536,
+          "r_yield_corn": 0.801,
+          "n_corn": 14,
+          "r_yield_soybean": 0.735,
+          "n_soybean": 16,
+          "r_yield_sorghum": 0.748,
+          "n_sorghum": 10
+        },
+        {
+          "setting": "claypan-limited \u00d71.5",
+          "taw_corn_root_zone_mm": 163.0,
+          "modelled_median_et_to_et0": 0.759,
+          "r_smap_monthly": 0.581,
+          "r_smap_anomaly": 0.453,
+          "r_yield_corn": 0.787,
+          "n_corn": 14,
+          "r_yield_soybean": 0.736,
+          "n_soybean": 16,
+          "r_yield_sorghum": 0.638,
+          "n_sorghum": 10
+        },
+        {
+          "setting": "full SSURGO profile",
+          "taw_corn_root_zone_mm": 303.0,
+          "modelled_median_et_to_et0": 0.759,
+          "r_smap_monthly": 0.548,
+          "r_smap_anomaly": 0.464,
+          "r_yield_corn": 0.743,
+          "n_corn": 14,
+          "r_yield_soybean": 0.67,
+          "n_soybean": 16,
+          "r_yield_sorghum": 0.611,
+          "n_sorghum": 10
+        }
+      ]
+    }
+  },
+  "validation": {
+    "power": {
+      "dataset": "power",
+      "role": "required",
+      "status": "ok",
+      "failed_checks": [],
+      "warnings": [
+        "IMERG_PRECTOT header description names IMERG: header says: MERRA-2 Total Precipitation (mm/day)"
+      ],
+      "n_checks": 38
+    },
+    "smap": {
+      "dataset": "smap",
+      "role": "optional",
+      "status": "ok",
+      "failed_checks": [],
+      "warnings": [],
+      "n_checks": 5
+    },
+    "modis": {
+      "dataset": "modis",
+      "role": "optional",
+      "status": "ok",
+      "failed_checks": [],
+      "warnings": [],
+      "n_checks": 5
+    },
+    "eco_lst": {
+      "dataset": "eco_lst",
+      "role": "optional",
+      "status": "ok",
+      "failed_checks": [],
+      "warnings": [],
+      "n_checks": 4
+    },
+    "eco_et": {
+      "dataset": "eco_et",
+      "role": "optional",
+      "status": "ok",
+      "failed_checks": [],
+      "warnings": [],
+      "n_checks": 4
+    },
+    "srtm": {
+      "dataset": "srtm",
+      "role": "optional",
+      "status": "ok",
+      "failed_checks": [],
+      "warnings": [],
+      "n_checks": 3
+    },
+    "cdl": {
+      "dataset": "cdl",
+      "role": "required",
+      "status": "ok",
+      "failed_checks": [],
+      "warnings": [],
+      "n_checks": 4
+    },
+    "ssurgo": {
+      "dataset": "ssurgo",
+      "role": "required",
+      "status": "ok",
+      "failed_checks": [],
+      "warnings": [],
+      "n_checks": 7
+    },
+    "gaez": {
+      "dataset": "gaez",
+      "role": "required",
+      "status": "ok",
+      "failed_checks": [],
+      "warnings": [],
+      "n_checks": 3
+    },
+    "nass": {
+      "dataset": "nass",
+      "role": "required",
+      "status": "ok",
+      "failed_checks": [],
+      "warnings": [],
+      "n_checks": 6
+    }
+  },
+  "freshness": {
+    "checked_on": "2026-11-14",
+    "warnings": [],
+    "power_last_day": "2025-12-31",
+    "power_age_days": 318,
+    "cdl_last_year": 2025
+  },
+  "manifest": {
+    "fieldshift_version": "2.0.1",
+    "run_utc": "2026-11-14T19:11:32+00:00",
+    "python": "3.14.10",
+    "platform": "macOS-26.7.2-arm64-arm-64bit-Mach-O",
+    "packages": {
+      "numpy": "2.5.4",
+      "pandas": "3.1.1",
+      "scipy": "1.18.1",
+      "scikit-learn": "1.9.1",
+      "streamlit": "1.67.0",
+      "plotly": "7.1.0",
+      "pytest": "9.2.0"
+    },
+    "raw_inputs": {
+      "power": {
+        "file": "01_03_nasa_power_gpm_imerg_daily.csv",
+        "sha256": "25ea44a688d5e22ea06053a367afc5f274b58b4dd95cfa37c10213eed42481bb",
+        "bytes": 477776,
+        "source_url": "https://power.larc.nasa.gov/data-access-viewer/",
+        "acquired": "NASA POWER Data Access Viewer, Nov 2026 (approx.)"
+      },
+      "smap": {
+        "file": "02_nasa_smap_SPL3SMP_E_006.csv",
+        "sha256": "f506c2be379bd3e83f99e8a7b6be8d855bc131332b6c4bf52fd417872a75f3e4",
+        "bytes": 1747007,
+        "source_url": "https://appeears.earthdatacloud.nasa.gov/",
+        "acquired": "AppEEARS point request, Nov 2026 (approx.)"
+      },
+      "modis": {
+        "file": "04_nasa_modis_MOD13Q1_061.csv",
+        "sha256": "f9454e06914efc9ac03f99cf8405b6be89c1277fa64a3af5c0a4ac6eb863bb6e",
+        "bytes": 204739,
+        "source_url": "https://appeears.earthdatacloud.nasa.gov/",
+        "acquired": "AppEEARS point request, Nov 2026 (approx.)"
+      },
+      "eco_lst": {
+        "file": "05a_nasa_ecostress_ECO_L2T_LSTE_002.csv",
+        "sha256": "9895feef22ece9f8f7b5fa23059dd1f68619a1a2d0bcf74d635e5cb79d472860",
+        "bytes": 1569526,
+        "source_url": "https://appeears.earthdatacloud.nasa.gov/",
+        "acquired": "AppEEARS point request, Nov 2026 (approx.)"
+      },
+      "eco_et": {
+        "file": "05b_nasa_ecostress_ECO_L3T_JET_002.csv",
+        "sha256": "d9e459940c5054a0f7c74a9e30305c56866cfcf2035e73c9a8fec4e27a8783f3",
+        "bytes": 32548,
+        "source_url": "https://appeears.earthdatacloud.nasa.gov/",
+        "acquired": "AppEEARS point request, Nov 2026 (approx.)"
+      },
+      "srtm": {
+        "file": "06_nasa_srtm_SRTMGL1_NC_003.csv",
+        "sha256": "69893cc79d12278d413609cd4f12481f1f67811228ec7ef8ca5e17dc73b73bca",
+        "bytes": 321,
+        "source_url": "https://appeears.earthdatacloud.nasa.gov/",
+        "acquired": "AppEEARS point request, Nov 2026 (approx.)"
+      },
+      "cdl": {
+        "file": "07_usda_cropscape_cdl.csv",
+        "sha256": "5982dc183946c5c6c93a6043c13df88e681f157bd09e3eadb455f05bf9301862",
+        "bytes": 912,
+        "source_url": "https://nassgeodata.gmu.edu/CropScape/",
+        "acquired": "CropScape point service, Nov 2026 (approx.)"
+      },
+      "ssurgo": {
+        "file": "08_usda_ssurgo_horizons.csv",
+        "sha256": "9c0639e76442cb436ad699eea7792b239572f2cc75c2b44807f70f4e0c8feb6d",
+        "bytes": 3510,
+        "source_url": "https://websoilsurvey.nrcs.usda.gov/",
+        "acquired": "Web Soil Survey export, Nov 2026 (approx.)"
+      },
+      "gaez": {
+        "file": "09_fao_gaez_v4_suitability.csv",
+        "sha256": "55ca467039f92b48d4877d7ef06aa154897952628149c780c57a5fcce2068de3",
+        "bytes": 3480,
+        "source_url": "https://gaez.fao.org/",
+        "acquired": "GAEZ v4 ImageServer identify, Nov 2026 (approx.)"
+      },
+      "nass": {
+        "file": "10_usda_nass_quickstats_riley.csv",
+        "sha256": "c2b0d5844d4ce5026f9a715d80edcc7b1d39a30317825fba511b35d51e048bda",
+        "bytes": 557988,
+        "source_url": "https://quickstats.nass.usda.gov/",
+        "acquired": "QuickStats query, Nov 2026 (approx.)"
+      }
+    },
+    "engine_tables": {
+      "crop_requirements.csv": "7af47e14b79ffa75905c3cc9f34383cbd351a31a428de2fb9dc01fccb854633c",
+      "crop_traits.csv": "238a0dc781603586a0c204dd2249c2c7eea47bf360f7a529ec7fccf3b241dd81",
+      "parameter_registry.csv": "c9e3f0f1ee966e928d2aabd6f9f1fc2c93f528a343fd1ee38ed862cbf4fd9374"
+    },
+    "settings": {
+      "farm": {
+        "name": "Demonstration farm, Riley County, Kansas, USA",
+        "lat": 39.12,
+        "lon": -96.63,
+        "albers_x": -53966,
+        "albers_y": 1788539,
+        "county": "Riley",
+        "state": "Kansas",
+        "ssurgo_aoi_acres": 18.7
+      },
+      "period": [
+        2005,
+        2025
+      ],
+      "heat_stress_c": 35.0,
+      "frost_c": 0.0,
+      "heavy_rain_mm": 25.0,
+      "ndvi_bare": 0.3,
+      "smap_ok_flags": [
+        0,
+        1
+      ],
+      "modis_ok_reliability": [
+        0,
+        1
+      ],
+      "eco_lst_valid_k": [
+        240.0,
+        345.0
+      ],
+      "water_model": "daily_water_balance",
+      "k_bare": 0.3,
+      "tew_mm": 25.0,
+      "near_tie": 0.02,
+      "fixed_weights": {
+        "climate_fit": 2,
+        "pest_break": 1
+      }
+    },
+    "random_seeds": {
+      "random_forest": 0,
+      "kmeans": 0,
+      "bootstrap": 0,
+      "sensitivity_default": 0
+    }
+  }
+}

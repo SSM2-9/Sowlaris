@@ -1,0 +1,26 @@
+crop,suitability_index_0_10000,suitability_0_1,suitability_class,lat,lon,period,water_supply,input_level,source,gaez_raster_objectid
+Sorghum,5431,0.5431,Medium,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257873
+Rye,4855,0.4855,Medium,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257869
+Flax,4855,0.4855,Medium,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257848
+Biomass sorghum,4855,0.4855,Medium,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257837
+Reed canary grass,4855,0.4855,Medium,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257865
+Cotton,4855,0.4855,Medium,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257845
+Oat,4855,0.4855,Medium,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257856
+Chickpea,4663,0.4663,Medium,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257840
+Rapeseed,4663,0.4663,Medium,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257867
+Switchgrass,4663,0.4663,Medium,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257876
+Alfalfa,4663,0.4663,Medium,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257833
+Groundnut,4663,0.4663,Medium,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257850
+Foxtail millet,4663,0.4663,Medium,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257849
+Wheat,4663,0.4663,Medium,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257880
+Barley,4663,0.4663,Medium,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257836
+Soybean,4087,0.4087,Medium,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257871
+Dry pea,4087,0.4087,Medium,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257860
+Sunflower,3942,0.3942,Moderate,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257870
+Maize,3750,0.375,Moderate,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257854
+Phaseolus bean,3175,0.3175,Moderate,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257861
+Buckwheat,2983,0.2983,Moderate,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257835
+Miscanthus,2983,0.2983,Moderate,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257853
+Sugarbeet,2983,0.2983,Moderate,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257874
+Pearl millet,0,0.0,Not suitable,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257863
+Cowpea,0,0.0,Not suitable,39.12,-96.63,1981-2010,Rainfed,High,"FAO GAEZ v4, res05 (5 arc-min ~9 km), all land in grid cell",257846

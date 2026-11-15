@@ -1,0 +1,11 @@
+crop,sow_earliest_month,sow_latest_month,harvest_earliest_month,harvest_latest_month,ph_optimum_min,ph_lime_threshold_flint_hills,drainage_need,needs_forage_outlet,irrigation_required,value_type,source
+corn,4,5,9,10,,,,0,0,regional practice (assumed),"Typical NE Kansas dryland calendar; to be verified against K-State planting-date guidance"
+soybean,5,6,9,10,,,,0,0,regional practice (assumed),"Typical NE Kansas full-season soybean calendar; post-harvest seeding dates Oct 12–Nov 15 reported by Penn State Extension (drone interseeding trial)"
+sorghum,5,6,10,11,,,,0,0,regional practice (assumed),"Typical Kansas grain sorghum calendar; to be verified"
+winter_wheat,9,10,6,7,,,,0,0,regional practice (assumed),"Typical Kansas winter wheat calendar (fall sowing, June–July harvest); to be verified"
+dc_soybean,6,7,10,11,,,,0,0,regional practice (assumed),"Double-crop soybean sown immediately after wheat harvest; to be verified"
+alfalfa,3,9,5,10,6.5,5.8,well or moderately well drained,1,0,literature,"pH 6.5–7.5 optimum, well-drained soils; K-State lime threshold for alfalfa in the Flint Hills and west: pH < 5.8 (target 6.0); east of the Flint Hills: < 6.4 (target 6.8) — K-State Agronomy eUpdate 'Recommendations for fall planting of alfalfa'; Kansas Rural Center alfalfa guide (does not tolerate waterlogging); Univ. Arkansas FSA establishment guide (well / moderately well drained)"
+sunflower,5,6,9,10,,,,0,0,regional practice (assumed),"not used in current candidates"
+oats,3,4,6,7,,,,0,0,regional practice (assumed),"not used in current candidates"
+cereal_rye_cover,9,10,4,5,,,,0,0,literature,"K-State Agronomy eUpdate 'Planting cereal rye after corn harvest': plant as soon as possible after corn harvest, no later than Nov 1 for most of Kansas"
+hairy_vetch_cover,8,9,4,5,,,,0,0,literature,"K-State station trials planted hairy vetch in mid-September after wheat (Kansas Rural Center / SARE LNC95-083); seeding after soybean harvest (Oct 12–Nov 15) cut spring biomass ~85% vs early-September interseeding (Penn State Extension)"

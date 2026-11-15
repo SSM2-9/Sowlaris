@@ -1,0 +1,69 @@
+{
+  "et0": {
+    "may_sep_hargreaves_mm": 769.0,
+    "may_sep_penman_monteith_mm": 789.0,
+    "ratio": 0.975
+  },
+  "ecostress_matched": {
+    "available": true,
+    "n_overpass_days": 64,
+    "observed_median_et_to_et0": 0.525,
+    "et0_on_overpass_days_mm": 5.61,
+    "et0_all_jul_aug_days_mm": 5.51
+  },
+  "storage_settings": [
+    {
+      "setting": "claypan-limited (used)",
+      "taw_corn_root_zone_mm": 109.0,
+      "modelled_median_et_to_et0": 0.706,
+      "r_smap_monthly": 0.598,
+      "r_smap_anomaly": 0.467,
+      "r_yield_corn": 0.784,
+      "n_corn": 14,
+      "r_yield_soybean": 0.757,
+      "n_soybean": 16,
+      "r_yield_sorghum": 0.689,
+      "n_sorghum": 10
+    },
+    {
+      "setting": "claypan-limited \u00d70.5",
+      "taw_corn_root_zone_mm": 54.0,
+      "modelled_median_et_to_et0": 0.649,
+      "r_smap_monthly": 0.622,
+      "r_smap_anomaly": 0.536,
+      "r_yield_corn": 0.801,
+      "n_corn": 14,
+      "r_yield_soybean": 0.735,
+      "n_soybean": 16,
+      "r_yield_sorghum": 0.748,
+      "n_sorghum": 10
+    },
+    {
+      "setting": "claypan-limited \u00d71.5",
+      "taw_corn_root_zone_mm": 163.0,
+      "modelled_median_et_to_et0": 0.759,
+      "r_smap_monthly": 0.581,
+      "r_smap_anomaly": 0.453,
+      "r_yield_corn": 0.787,
+      "n_corn": 14,
+      "r_yield_soybean": 0.736,
+      "n_soybean": 16,
+      "r_yield_sorghum": 0.638,
+      "n_sorghum": 10
+    },
+    {
+      "setting": "full SSURGO profile",
+      "taw_corn_root_zone_mm": 303.0,
+      "modelled_median_et_to_et0": 0.759,
+      "r_smap_monthly": 0.548,
+      "r_smap_anomaly": 0.464,
+      "r_yield_corn": 0.743,
+      "n_corn": 14,
+      "r_yield_soybean": 0.67,
+      "n_soybean": 16,
+      "r_yield_sorghum": 0.611,
+      "n_sorghum": 10
+    }
+  ],
+  "interpretation": "Hargreaves and Penman\u2013Monteith ET0 agree within a few percent, and matched-day ECOSTRESS ratios equal the monthly ones, so neither ET0 nor clear-sky sampling explains the gap. The claypan-limited storage agrees better than the full profile with all three independent observations (ECOSTRESS level, SMAP timing, county yield swings) but the model still over-estimates ECOSTRESS crop water use. Likely remaining causes: no runoff (K-State/USDA-ARS: only ~25% of fallow-season rain is stored), a seasonal-average Kc instead of stage curves, ECOSTRESS 70 m / overpass-time sampling, and county yields mixing irrigated fields. The model is exploratory."
+}

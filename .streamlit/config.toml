@@ -1,0 +1,15 @@
+# Merged: Sowlaris palette (was Ekram's blue) + static file serving for the hero video.
+[theme]
+base = "light"
+primaryColor = "#5F7F4F"
+backgroundColor = "#F4EFE0"
+secondaryBackgroundColor = "#EBE4CF"
+textColor = "#43402F"
+font = "sans serif"
+
+[server]
+headless = false
+enableStaticServing = true   # serves app/static/hero.mp4 at /app/static/hero.mp4
+
+[browser]
+gatherUsageStats = false

@@ -1,0 +1,669 @@
+{
+  "farm": {
+    "location": "Demonstration farm, Riley County, Kansas, USA (39.12, -96.63)",
+    "elevation_m": 322.0,
+    "annual_rain_mm": 907.0,
+    "gs_rain_mm": 562.0,
+    "gs_et0_mm": 769.0,
+    "gs_water_balance_mm": -207.0,
+    "dry_years": [
+      2006,
+      2011,
+      2012,
+      2017,
+      2018,
+      2023
+    ],
+    "trend_temperature": "+0.86 \u00b0C/decade (Theil\u2013Sen; Mann\u2013Kendall p = 0.09, not statistically significant)",
+    "trend_heat_days": "+6.5 days/decade (Theil\u2013Sen; Mann\u2013Kendall p = 0.30, not statistically significant)",
+    "trend_gs_water_balance": "-73 mm/decade (Theil\u2013Sen; Mann\u2013Kendall p = 0.49, not statistically significant)",
+    "trend_winter_ndvi": "-0.048 NDVI/decade (Theil\u2013Sen; Mann\u2013Kendall p < 0.001, statistically significant)",
+    "heat_days_mean": 23.9,
+    "frost_days_mean": 106.0,
+    "offseason_rain_mm": 271.0,
+    "observed_bare_months_2005_2007": 0.7,
+    "observed_bare_months_since_2015": 6.4,
+    "eco_et_to_et0_jul_aug": 0.5,
+    "smap_jul_aug": 0.204,
+    "smap_apr_may": 0.256,
+    "summer_lst_day_c": 33.9,
+    "recent_regimes": {
+      "2021": "Hot & dry",
+      "2022": "Hot & dry",
+      "2023": "Hot & dry",
+      "2024": "Hot & dry",
+      "2025": "Hot & dry"
+    },
+    "hot_dry_seasons": 12,
+    "soil_om_pct": 3.0,
+    "soil_ph": 6.13,
+    "soil_awc_in": 14.23,
+    "subsoil_max_clay_pct": 45.18,
+    "soil_kw": 0.33,
+    "soil_min_ksat_um_s": 0.14,
+    "current_rotation": "Corn \u2194 Soybeans",
+    "current_rotation_years": "2020\u20132025",
+    "county_crops_recent": [
+      "corn",
+      "sorghum",
+      "soybeans",
+      "wheat"
+    ],
+    "data_availability": {
+      "power": "ok",
+      "smap": "ok",
+      "modis": "ok",
+      "eco_lst": "ok",
+      "eco_et": "ok",
+      "srtm": "ok",
+      "cdl": "ok",
+      "ssurgo": "ok",
+      "gaez": "ok",
+      "nass": "ok"
+    }
+  },
+  "priorities": {
+    "water": 3.0,
+    "market_potential": 3.0,
+    "soil_health": 3.0,
+    "erosion_protection": 3.0
+  },
+  "constraints": {
+    "irrigation_available": false,
+    "limit_water_to_current": false,
+    "can_establish_cover_before_harvest": false,
+    "forage_market_or_livestock": false
+  },
+  "livestock": false,
+  "all_scores": {
+    "current_corn_soy": {
+      "water": 0.608,
+      "climate_fit": 0.611,
+      "soil_health": 0.688,
+      "erosion_protection": 0.565,
+      "pest_break": 0.833,
+      "market_potential": 0.975,
+      "_bare_months": 7.0,
+      "_water_need_mm": 611.0,
+      "_unmet_water_pct": 16.9,
+      "_unmet_water_mm": 103.0,
+      "_drought_rel_yield_p25": 0.743,
+      "_rel_yield_mean": 0.829,
+      "_water_model": "daily_water_balance",
+      "_gaez_mean": 3919.0,
+      "_hot_dry_year_yield_change_pct": -30.8,
+      "total": 0.704
+    },
+    "corn_soy_covers": {
+      "water": 0.608,
+      "climate_fit": 0.611,
+      "soil_health": 0.787,
+      "erosion_protection": 0.905,
+      "pest_break": 0.833,
+      "market_potential": 0.895,
+      "_bare_months": 0.5,
+      "_water_need_mm": 708.0,
+      "_unmet_water_pct": 16.9,
+      "_unmet_water_mm": 103.0,
+      "_drought_rel_yield_p25": 0.743,
+      "_rel_yield_mean": 0.829,
+      "_water_model": "daily_water_balance",
+      "_gaez_mean": 3919.0,
+      "_hot_dry_year_yield_change_pct": -30.8,
+      "total": 0.776
+    },
+    "corn_soy_rye": {
+      "water": 0.608,
+      "climate_fit": 0.611,
+      "soil_health": 0.718,
+      "erosion_protection": 0.733,
+      "pest_break": 0.833,
+      "market_potential": 0.935,
+      "_bare_months": 4.0,
+      "_water_need_mm": 659.0,
+      "_unmet_water_pct": 16.9,
+      "_unmet_water_mm": 103.0,
+      "_drought_rel_yield_p25": 0.743,
+      "_rel_yield_mean": 0.829,
+      "_water_model": "daily_water_balance",
+      "_gaez_mean": 3919.0,
+      "_hot_dry_year_yield_change_pct": -30.8,
+      "total": 0.736
+    },
+    "sorghum_soy_vetch": {
+      "water": 0.758,
+      "climate_fit": 0.742,
+      "soil_health": 0.751,
+      "erosion_protection": 0.725,
+      "pest_break": 0.833,
+      "market_potential": 0.81,
+      "_bare_months": 4.0,
+      "_water_need_mm": 557.0,
+      "_unmet_water_pct": 12.3,
+      "_unmet_water_mm": 64.0,
+      "_drought_rel_yield_p25": 0.865,
+      "_rel_yield_mean": 0.899,
+      "_water_model": "daily_water_balance",
+      "_gaez_mean": 4759.0,
+      "_hot_dry_year_yield_change_pct": -30.9,
+      "total": 0.763
+    },
+    "sorghum_soy_wheat_dc": {
+      "water": 0.757,
+      "climate_fit": 0.725,
+      "soil_health": 0.71,
+      "erosion_protection": 0.686,
+      "pest_break": 1.0,
+      "market_potential": 0.773,
+      "_bare_months": 4.7,
+      "_water_need_mm": 611.0,
+      "_unmet_water_pct": 10.9,
+      "_unmet_water_mm": 66.0,
+      "_drought_rel_yield_p25": 0.88,
+      "_rel_yield_mean": 0.912,
+      "_water_model": "daily_water_balance",
+      "_gaez_mean": 4727.0,
+      "_hot_dry_year_yield_change_pct": -20.6,
+      "total": 0.749
+    },
+    "corn_soy_wheat_vetch": {
+      "water": 0.669,
+      "climate_fit": 0.633,
+      "soil_health": 0.741,
+      "erosion_protection": 0.886,
+      "pest_break": 1.0,
+      "market_potential": 0.83,
+      "_bare_months": 1.0,
+      "_water_need_mm": 624.0,
+      "_unmet_water_pct": 13.5,
+      "_unmet_water_mm": 74.0,
+      "_drought_rel_yield_p25": 0.777,
+      "_rel_yield_mean": 0.876,
+      "_water_model": "daily_water_balance",
+      "_gaez_mean": 4167.0,
+      "_hot_dry_year_yield_change_pct": -20.5,
+      "total": 0.776
+    },
+    "alfalfa_corn_soy": {
+      "water": 0.682,
+      "climate_fit": 0.644,
+      "soil_health": 0.784,
+      "erosion_protection": 0.889,
+      "pest_break": 0.8,
+      "market_potential": 0.794,
+      "_bare_months": 1.4,
+      "_water_need_mm": 797.0,
+      "_unmet_water_pct": 13.6,
+      "_unmet_water_mm": 105.0,
+      "_drought_rel_yield_p25": 0.77,
+      "_rel_yield_mean": 0.843,
+      "_water_model": "daily_water_balance",
+      "_gaez_mean": 4365.0,
+      "_hot_dry_year_yield_change_pct": -30.5,
+      "total": 0.769
+    }
+  },
+  "ranking": [
+    "corn_soy_covers",
+    "corn_soy_wheat_vetch",
+    "alfalfa_corn_soy",
+    "sorghum_soy_vetch",
+    "sorghum_soy_wheat_dc",
+    "corn_soy_rye",
+    "current_corn_soy"
+  ],
+  "eligible_ranking": [
+    "corn_soy_wheat_vetch",
+    "alfalfa_corn_soy",
+    "sorghum_soy_wheat_dc",
+    "corn_soy_rye"
+  ],
+  "feasibility": {
+    "current_corn_soy": {
+      "status": "feasible",
+      "issues": []
+    },
+    "corn_soy_covers": {
+      "status": "infeasible",
+      "issues": [
+        {
+          "check": "termination",
+          "severity": "info",
+          "message": "Terminate Hairy vetch cover crop before planting Corn (months 4\u20135 vs sowing 4\u20135); see the crop's risk note."
+        },
+        {
+          "check": "planting_window",
+          "severity": "info",
+          "message": "Tight window: sow Cereal rye cover crop immediately after Corn harvest."
+        },
+        {
+          "check": "termination",
+          "severity": "info",
+          "message": "Terminate Cereal rye cover crop before planting Soybean (months 4\u20135 vs sowing 5\u20136); see the crop's risk note."
+        },
+        {
+          "check": "planting_window",
+          "severity": "infeasible",
+          "message": "Hairy vetch cover crop should be sown by month 9, but Soybean is usually harvested in months 9\u201310. It needs interseeding into the standing crop (or an early-maturing variety). Source: K-State station trials planted hairy vetch in mid-September after wheat (Kansas Rural Center / SARE LNC95-083); seeding after soybean harvest (Oct 12\u2013Nov 15) cut spring biomass ~85% vs early-September interseeding (Penn State Extension) Farmer cannot interseed."
+        }
+      ]
+    },
+    "corn_soy_rye": {
+      "status": "feasible",
+      "issues": [
+        {
+          "check": "termination",
+          "severity": "info",
+          "message": "Terminate Cereal rye cover crop before planting Corn (months 4\u20135 vs sowing 4\u20135); see the crop's risk note."
+        },
+        {
+          "check": "planting_window",
+          "severity": "info",
+          "message": "Tight window: sow Cereal rye cover crop immediately after Soybean harvest."
+        }
+      ]
+    },
+    "sorghum_soy_vetch": {
+      "status": "infeasible",
+      "issues": [
+        {
+          "check": "termination",
+          "severity": "info",
+          "message": "Terminate Hairy vetch cover crop before planting Grain sorghum (months 4\u20135 vs sowing 5\u20136); see the crop's risk note."
+        },
+        {
+          "check": "planting_window",
+          "severity": "infeasible",
+          "message": "Hairy vetch cover crop should be sown by month 9, but Soybean is usually harvested in months 9\u201310. It needs interseeding into the standing crop (or an early-maturing variety). Source: K-State station trials planted hairy vetch in mid-September after wheat (Kansas Rural Center / SARE LNC95-083); seeding after soybean harvest (Oct 12\u2013Nov 15) cut spring biomass ~85% vs early-September interseeding (Penn State Extension) Farmer cannot interseed."
+        }
+      ]
+    },
+    "sorghum_soy_wheat_dc": {
+      "status": "feasible",
+      "issues": [
+        {
+          "check": "planting_window",
+          "severity": "info",
+          "message": "Tight window: sow Winter wheat immediately after Soybean harvest."
+        },
+        {
+          "check": "planting_window",
+          "severity": "info",
+          "message": "Tight window: sow Double-crop soybean immediately after Winter wheat harvest."
+        }
+      ]
+    },
+    "corn_soy_wheat_vetch": {
+      "status": "feasible",
+      "issues": [
+        {
+          "check": "termination",
+          "severity": "info",
+          "message": "Terminate Hairy vetch cover crop before planting Corn (months 4\u20135 vs sowing 4\u20135); see the crop's risk note."
+        },
+        {
+          "check": "planting_window",
+          "severity": "info",
+          "message": "Tight window: sow Cereal rye cover crop immediately after Corn harvest."
+        },
+        {
+          "check": "termination",
+          "severity": "info",
+          "message": "Terminate Cereal rye cover crop before planting Soybean (months 4\u20135 vs sowing 5\u20136); see the crop's risk note."
+        },
+        {
+          "check": "planting_window",
+          "severity": "info",
+          "message": "Tight window: sow Winter wheat immediately after Soybean harvest."
+        }
+      ]
+    },
+    "alfalfa_corn_soy": {
+      "status": "conditional",
+      "issues": [
+        {
+          "check": "planting_window",
+          "severity": "info",
+          "message": "Tight window: sow Cereal rye cover crop immediately after Corn harvest."
+        },
+        {
+          "check": "termination",
+          "severity": "info",
+          "message": "Terminate Cereal rye cover crop before planting Soybean (months 4\u20135 vs sowing 5\u20136); see the crop's risk note."
+        },
+        {
+          "check": "soil_ph",
+          "severity": "conditional",
+          "message": "Alfalfa (hay): topsoil pH 6.13 is below the 6.5 optimum. Above the K-State lime threshold for the Flint Hills (5.8), so lime may not be required \u2014 confirm with a soil test; east of the Flint Hills K-State recommends lime below 6.4. Source: pH 6.5\u20137.5 optimum, well-drained soils; K-State lime threshold for alfalfa in the Flint Hills and west: pH < 5.8 (target 6.0); east of the Flint Hills: < 6.4 (target 6.8) \u2014 K-State Agronomy eUpdate 'Recommendations for fall planting of alfalfa'; Kansas Rural Center alfalfa guide (does not tolerate waterlogging); Univ. Arkansas FSA establishment guide (well / moderately well drained)"
+        },
+        {
+          "check": "drainage",
+          "severity": "conditional",
+          "message": "Alfalfa (hay) needs well or moderately well drained soil; the slowest SSURGO layer drains at 0.14 \u00b5m/s (max clay 45%). Drainage class is not in our soil export \u2014 verify before planting (root-rot risk)."
+        },
+        {
+          "check": "forage_outlet",
+          "severity": "conditional",
+          "message": "Alfalfa (hay) is a forage crop: needs livestock or a hay buyer (farmer reports neither)."
+        }
+      ]
+    }
+  },
+  "notices": [
+    "Near-tie: 'Corn \u2192 Soybean \u2192 Winter wheat + hairy vetch' and 'Alfalfa (3 yrs) \u2192 Corn \u2192 Soybean' differ by 0.007 (< 0.02); treat them as equally good and choose on the trade-offs, not the order.",
+    "Not shown because they are infeasible for your situation: Corn \u2192 Soybean with winter cover crops (planting window); Sorghum \u2192 Soybean with a legume cover crop (planting window)."
+  ],
+  "strategies": [
+    {
+      "id": "current_corn_soy",
+      "name": "Current: Corn \u2192 Soybean",
+      "rotation": [
+        [
+          "Corn",
+          null
+        ],
+        [
+          "Soybean",
+          null
+        ]
+      ],
+      "rank": 7,
+      "rank_among_eligible": null,
+      "scores": {
+        "water": 0.608,
+        "climate_fit": 0.611,
+        "soil_health": 0.688,
+        "erosion_protection": 0.565,
+        "pest_break": 0.833,
+        "market_potential": 0.975,
+        "total": 0.704
+      },
+      "bare_months_per_year": 7.0,
+      "water_need_mm_per_year": 611.0,
+      "hot_dry_year_yield_change_pct": -30.8,
+      "feasibility": {
+        "status": "feasible",
+        "issues": []
+      },
+      "near_tie": false,
+      "near_tie_with": [],
+      "strongest": "market_potential",
+      "weakest": "erosion_protection",
+      "change_vs_current": {
+        "water": 0.0,
+        "climate_fit": 0.0,
+        "soil_health": 0.0,
+        "erosion_protection": 0.0,
+        "pest_break": 0.0,
+        "market_potential": 0.0,
+        "total": 0.0
+      },
+      "why": "This is what the field has grown every year 2020\u20132025 (USDA CropScape). It is shown as the baseline to compare against.",
+      "evidence": [
+        "Field cover from space (NASA MODIS NDVI): the field was bare ~0.7 months/yr in 2005\u201307 (pasture) but ~6.4 months/yr since 2015 under corn\u2013soybean; winter greenness trend -0.048 NDVI/decade (Theil\u2013Sen; Mann\u2013Kendall p < 0.001, statistically significant). This rotation would leave it bare ~7.0 months/yr (current: 7.0).",
+        "Water: May\u2013Sep crop water demand (ET0, NASA POWER) 769 mm vs rain (NASA GPM IMERG) 562 mm \u2192 shortfall 207 mm. NASA ECOSTRESS shows crops used only 50% of demand in Jul\u2013Aug (water-limited). NASA daily water balance: this rotation's cash crops lack 17% of their water demand (current: 17%); modelled crop-water demand 611 mm/yr (current: 611 mm).",
+        "Soil moisture (NASA SMAP): 0.26 m\u00b3/m\u00b3 in Apr\u2013May falling to 0.20 m\u00b3/m\u00b3 in Jul\u2013Aug, when corn silks and soybeans fill pods.",
+        "Climate regimes (K-means on 21 growing seasons): 12 of 21 were 'Hot & dry', including 5 of the last 5 (2021, 2022, 2023, 2024, 2025). Temperature trend +0.86 \u00b0C/decade (Theil\u2013Sen; Mann\u2013Kendall p = 0.09, not statistically significant).",
+        "FAO GAEZ climate suitability of the main crops: 3919/10000 (current: 3919).",
+        "Soil (USDA SSURGO): 3.0% organic matter, subsoil up to 45% clay, pH 6.1, erodibility Kw 0.33.",
+        "Yield history (USDA NASS, observed): in 2012 county yields fell 34% (corn), 27% (soybean), 30% (sorghum) below trend; winter wheat averaged 108% of trend in the hottest years. Secondary Random Forest check (held-out error \u00b111 points): with 2012 held out it predicted only 16% / 18% / 16% \u2014 it under-estimates extreme losses. Sources of the crop-loss values for this rotation's crops: Random Forest trained on all years (in-sample estimate, not validated)."
+      ],
+      "benefits": [],
+      "information_gaps": [
+        "Market potential is not income: crop prices, input costs and contracts are not modelled; the score reflects which crops are traded in Riley County (USDA NASS).",
+        "The water balance is an exploratory calibrated model: runoff and irrigation are not modelled and the claypan rooting limit is inferred from SSURGO.",
+        "County yields include irrigated fields, so the yield model cannot fairly rank corn vs. sorghum heat tolerance.",
+        "SMAP soil moisture is a 9 km average that mixes this field with its neighbours; ECOSTRESS observes on irregular days.",
+        "Crop-trait values are regional figures from K-State, UNL, USDA and peer-reviewed sources, not trials on this field."
+      ],
+      "risks_for_local_review": [
+        "Corn: Highest water and nitrogen demand; yield most sensitive to water stress from tasseling through silking (mid\u2013late July)",
+        "Soybean: Low residue after harvest leaves soil exposed; sensitive to drought during pod set and early bean fill (August)"
+      ]
+    },
+    {
+      "id": "corn_soy_wheat_vetch",
+      "name": "Corn \u2192 Soybean \u2192 Winter wheat + hairy vetch",
+      "rotation": [
+        [
+          "Corn",
+          "Cereal rye cover crop"
+        ],
+        [
+          "Soybean",
+          null
+        ],
+        [
+          "Winter wheat",
+          "Hairy vetch cover crop"
+        ]
+      ],
+      "rank": 2,
+      "rank_among_eligible": 1,
+      "scores": {
+        "water": 0.669,
+        "climate_fit": 0.633,
+        "soil_health": 0.741,
+        "erosion_protection": 0.886,
+        "pest_break": 1.0,
+        "market_potential": 0.83,
+        "total": 0.776
+      },
+      "bare_months_per_year": 1.0,
+      "water_need_mm_per_year": 624.0,
+      "hot_dry_year_yield_change_pct": -20.5,
+      "feasibility": {
+        "status": "feasible",
+        "issues": [
+          {
+            "check": "termination",
+            "severity": "info",
+            "message": "Terminate Hairy vetch cover crop before planting Corn (months 4\u20135 vs sowing 4\u20135); see the crop's risk note."
+          },
+          {
+            "check": "planting_window",
+            "severity": "info",
+            "message": "Tight window: sow Cereal rye cover crop immediately after Corn harvest."
+          },
+          {
+            "check": "termination",
+            "severity": "info",
+            "message": "Terminate Cereal rye cover crop before planting Soybean (months 4\u20135 vs sowing 5\u20136); see the crop's risk note."
+          },
+          {
+            "check": "planting_window",
+            "severity": "info",
+            "message": "Tight window: sow Winter wheat immediately after Soybean harvest."
+          }
+        ]
+      },
+      "near_tie": true,
+      "near_tie_with": [
+        "alfalfa_corn_soy"
+      ],
+      "strongest": "pest_break",
+      "weakest": "climate_fit",
+      "change_vs_current": {
+        "water": 0.061,
+        "climate_fit": 0.022,
+        "soil_health": 0.053,
+        "erosion_protection": 0.321,
+        "pest_break": 0.167,
+        "market_potential": -0.145,
+        "total": 0.072
+      },
+      "why": "Adds Cereal rye cover crop, Winter wheat, Hairy vetch cover crop to address the farm's main problems. Better than the current rotation on: erosion protection, pest break, water.",
+      "evidence": [
+        "Field cover from space (NASA MODIS NDVI): the field was bare ~0.7 months/yr in 2005\u201307 (pasture) but ~6.4 months/yr since 2015 under corn\u2013soybean; winter greenness trend -0.048 NDVI/decade (Theil\u2013Sen; Mann\u2013Kendall p < 0.001, statistically significant). This rotation would leave it bare ~1.0 months/yr (current: 7.0).",
+        "Water: May\u2013Sep crop water demand (ET0, NASA POWER) 769 mm vs rain (NASA GPM IMERG) 562 mm \u2192 shortfall 207 mm. NASA ECOSTRESS shows crops used only 50% of demand in Jul\u2013Aug (water-limited). NASA daily water balance: this rotation's cash crops lack 14% of their water demand (current: 17%); modelled crop-water demand 624 mm/yr (current: 611 mm).",
+        "Soil moisture (NASA SMAP): 0.26 m\u00b3/m\u00b3 in Apr\u2013May falling to 0.20 m\u00b3/m\u00b3 in Jul\u2013Aug, when corn silks and soybeans fill pods.",
+        "Climate regimes (K-means on 21 growing seasons): 12 of 21 were 'Hot & dry', including 5 of the last 5 (2021, 2022, 2023, 2024, 2025). Temperature trend +0.86 \u00b0C/decade (Theil\u2013Sen; Mann\u2013Kendall p = 0.09, not statistically significant).",
+        "FAO GAEZ climate suitability of the main crops: 4167/10000 (current: 3919).",
+        "Soil (USDA SSURGO): 3.0% organic matter, subsoil up to 45% clay, pH 6.1, erodibility Kw 0.33.",
+        "Yield history (USDA NASS, observed): in 2012 county yields fell 34% (corn), 27% (soybean), 30% (sorghum) below trend; winter wheat averaged 108% of trend in the hottest years. Secondary Random Forest check (held-out error \u00b111 points): with 2012 held out it predicted only 16% / 18% / 16% \u2014 it under-estimates extreme losses. Sources of the crop-loss values for this rotation's crops: Calculated from USDA NASS county yields (observed, not a prediction); Random Forest trained on all years (in-sample estimate, not validated)."
+      ],
+      "benefits": [
+        "Cuts bare-soil time by 6.0 months/yr, protecting the soil from ~271 mm of off-season rain.",
+        "More roots and residue \u2192 builds organic matter and improves infiltration into the dense clay subsoil.",
+        "A legume in the rotation fixes nitrogen \u2192 lower fertilizer need for the following grass crop.",
+        "Less crop water stress in the NASA daily water balance: 14% of cash-crop water demand unmet vs 17% for the current rotation (2006\u20132025).",
+        "Lower drought-year risk: modelled relative yield in the driest quarter of seasons 78% vs 74% (FAO-33 Ky; modelled estimate, not a forecast).",
+        "More crop families \u2192 breaks corn rootworm and soybean pest cycles."
+      ],
+      "information_gaps": [
+        "Market potential is not income: crop prices, input costs and contracts are not modelled; the score reflects which crops are traded in Riley County (USDA NASS).",
+        "The water balance is an exploratory calibrated model: runoff and irrigation are not modelled and the claypan rooting limit is inferred from SSURGO.",
+        "County yields include irrigated fields, so the yield model cannot fairly rank corn vs. sorghum heat tolerance.",
+        "SMAP soil moisture is a 9 km average that mixes this field with its neighbours; ECOSTRESS observes on irregular days.",
+        "Crop-trait values are regional figures from K-State, UNL, USDA and peer-reviewed sources, not trials on this field."
+      ],
+      "risks_for_local_review": [
+        "Scores lower than the current rotation on: market potential.",
+        "Cereal rye cover crop: Before corn: terminate early (rye under ~8 in, \u22652 weeks before planting) to limit nitrogen tie-up \u2014 K-State recommends rye mainly before soybean; in a dry spring it uses moisture the next crop needs; seed and seeding cost; host of wheat streak mosaic virus and wheat curl mite (risk near wheat); after sorghum, establishment can be poor",
+        "Winter wheat: Needs a fall planting window after the summer crop; Hessian fly and rust risk; vulnerable to late spring freeze (e.g. April 2007)",
+        "Hairy vetch cover crop: Releases >70% of its nitrogen within two weeks of termination, so time termination close to planting; seed cost; can become a weed in wheat"
+      ]
+    },
+    {
+      "id": "alfalfa_corn_soy",
+      "name": "Alfalfa (3 yrs) \u2192 Corn \u2192 Soybean",
+      "rotation": [
+        [
+          "Alfalfa (hay)",
+          null
+        ],
+        [
+          "Alfalfa (hay)",
+          null
+        ],
+        [
+          "Alfalfa (hay)",
+          null
+        ],
+        [
+          "Corn",
+          "Cereal rye cover crop"
+        ],
+        [
+          "Soybean",
+          null
+        ]
+      ],
+      "rank": 3,
+      "rank_among_eligible": 2,
+      "scores": {
+        "water": 0.682,
+        "climate_fit": 0.644,
+        "soil_health": 0.784,
+        "erosion_protection": 0.889,
+        "pest_break": 0.8,
+        "market_potential": 0.794,
+        "total": 0.769
+      },
+      "bare_months_per_year": 1.4,
+      "water_need_mm_per_year": 797.0,
+      "hot_dry_year_yield_change_pct": -30.5,
+      "feasibility": {
+        "status": "conditional",
+        "issues": [
+          {
+            "check": "planting_window",
+            "severity": "info",
+            "message": "Tight window: sow Cereal rye cover crop immediately after Corn harvest."
+          },
+          {
+            "check": "termination",
+            "severity": "info",
+            "message": "Terminate Cereal rye cover crop before planting Soybean (months 4\u20135 vs sowing 5\u20136); see the crop's risk note."
+          },
+          {
+            "check": "soil_ph",
+            "severity": "conditional",
+            "message": "Alfalfa (hay): topsoil pH 6.13 is below the 6.5 optimum. Above the K-State lime threshold for the Flint Hills (5.8), so lime may not be required \u2014 confirm with a soil test; east of the Flint Hills K-State recommends lime below 6.4. Source: pH 6.5\u20137.5 optimum, well-drained soils; K-State lime threshold for alfalfa in the Flint Hills and west: pH < 5.8 (target 6.0); east of the Flint Hills: < 6.4 (target 6.8) \u2014 K-State Agronomy eUpdate 'Recommendations for fall planting of alfalfa'; Kansas Rural Center alfalfa guide (does not tolerate waterlogging); Univ. Arkansas FSA establishment guide (well / moderately well drained)"
+          },
+          {
+            "check": "drainage",
+            "severity": "conditional",
+            "message": "Alfalfa (hay) needs well or moderately well drained soil; the slowest SSURGO layer drains at 0.14 \u00b5m/s (max clay 45%). Drainage class is not in our soil export \u2014 verify before planting (root-rot risk)."
+          },
+          {
+            "check": "forage_outlet",
+            "severity": "conditional",
+            "message": "Alfalfa (hay) is a forage crop: needs livestock or a hay buyer (farmer reports neither)."
+          }
+        ]
+      },
+      "near_tie": true,
+      "near_tie_with": [
+        "corn_soy_wheat_vetch"
+      ],
+      "strongest": "erosion_protection",
+      "weakest": "climate_fit",
+      "change_vs_current": {
+        "water": 0.074,
+        "climate_fit": 0.033,
+        "soil_health": 0.096,
+        "erosion_protection": 0.324,
+        "pest_break": -0.033,
+        "market_potential": -0.181,
+        "total": 0.065
+      },
+      "why": "Adds Alfalfa (hay), Cereal rye cover crop to address the farm's main problems. Better than the current rotation on: erosion protection, soil health, water.",
+      "evidence": [
+        "Field cover from space (NASA MODIS NDVI): the field was bare ~0.7 months/yr in 2005\u201307 (pasture) but ~6.4 months/yr since 2015 under corn\u2013soybean; winter greenness trend -0.048 NDVI/decade (Theil\u2013Sen; Mann\u2013Kendall p < 0.001, statistically significant). This rotation would leave it bare ~1.4 months/yr (current: 7.0).",
+        "Water: May\u2013Sep crop water demand (ET0, NASA POWER) 769 mm vs rain (NASA GPM IMERG) 562 mm \u2192 shortfall 207 mm. NASA ECOSTRESS shows crops used only 50% of demand in Jul\u2013Aug (water-limited). NASA daily water balance: this rotation's cash crops lack 14% of their water demand (current: 17%); modelled crop-water demand 797 mm/yr (current: 611 mm).",
+        "Soil moisture (NASA SMAP): 0.26 m\u00b3/m\u00b3 in Apr\u2013May falling to 0.20 m\u00b3/m\u00b3 in Jul\u2013Aug, when corn silks and soybeans fill pods.",
+        "Climate regimes (K-means on 21 growing seasons): 12 of 21 were 'Hot & dry', including 5 of the last 5 (2021, 2022, 2023, 2024, 2025). Temperature trend +0.86 \u00b0C/decade (Theil\u2013Sen; Mann\u2013Kendall p = 0.09, not statistically significant).",
+        "FAO GAEZ climate suitability of the main crops: 4365/10000 (current: 3919).",
+        "Soil (USDA SSURGO): 3.0% organic matter, subsoil up to 45% clay, pH 6.1, erodibility Kw 0.33.",
+        "Yield history (USDA NASS, observed): in 2012 county yields fell 34% (corn), 27% (soybean), 30% (sorghum) below trend; winter wheat averaged 108% of trend in the hottest years. Secondary Random Forest check (held-out error \u00b111 points): with 2012 held out it predicted only 16% / 18% / 16% \u2014 it under-estimates extreme losses. Sources of the crop-loss values for this rotation's crops: Borrowed from another crop's estimate (assumption); Random Forest trained on all years (in-sample estimate, not validated)."
+      ],
+      "benefits": [
+        "Cuts bare-soil time by 5.6 months/yr, protecting the soil from ~271 mm of off-season rain.",
+        "More roots and residue \u2192 builds organic matter and improves infiltration into the dense clay subsoil.",
+        "A legume in the rotation fixes nitrogen \u2192 lower fertilizer need for the following grass crop.",
+        "Less crop water stress in the NASA daily water balance: 14% of cash-crop water demand unmet vs 17% for the current rotation (2006\u20132025).",
+        "Lower drought-year risk: modelled relative yield in the driest quarter of seasons 77% vs 74% (FAO-33 Ky; modelled estimate, not a forecast)."
+      ],
+      "information_gaps": [
+        "Market potential is not income: crop prices, input costs and contracts are not modelled; the score reflects which crops are traded in Riley County (USDA NASS).",
+        "The water balance is an exploratory calibrated model: runoff and irrigation are not modelled and the claypan rooting limit is inferred from SSURGO.",
+        "County yields include irrigated fields, so the yield model cannot fairly rank corn vs. sorghum heat tolerance.",
+        "SMAP soil moisture is a 9 km average that mixes this field with its neighbours; ECOSTRESS observes on irregular days.",
+        "Crop-trait values are regional figures from K-State, UNL, USDA and peer-reviewed sources, not trials on this field."
+      ],
+      "risks_for_local_review": [
+        "Scores lower than the current rotation on: market potential, pest break.",
+        "Alfalfa (hay): Very high water use; poorly suited to wet, slow-draining clay subsoil; needs a hay market or livestock",
+        "Cereal rye cover crop: Before corn: terminate early (rye under ~8 in, \u22652 weeks before planting) to limit nitrogen tie-up \u2014 K-State recommends rye mainly before soybean; in a dry spring it uses moisture the next crop needs; seed and seeding cost; host of wheat streak mosaic virus and wheat curl mite (risk near wheat); after sorghum, establishment can be poor"
+      ]
+    }
+  ],
+  "soil_factors": {
+    "slow_drainage_share": 0.966,
+    "drainage_relevance": 0.966,
+    "erosion_susceptibility": 0.602,
+    "erosion_relevance": 0.801,
+    "om_deficit": 0.167,
+    "soil_health_relevance": 0.583,
+    "kw": 0.331,
+    "wind_erodibility_index": 47.99999999999999,
+    "organic_matter_pct": 3.0
+  },
+  "known_limitations": [
+    "EXPLORATORY CALIBRATED MODEL: water and drought-risk scores come from a daily soil-water balance (NASA GPM IMERG rain, NASA POWER ET0, SSURGO soil water above an inferred claypan rooting limit, FAO-56 stress, FAO-33 yield response). It reproduces county yield swings (r \u2248 0.7\u20130.8) but over-estimates ECOSTRESS crop water use (0.71 vs 0.52); runoff and irrigation are not modelled."
+  ],
+  "data_availability": {
+    "power": "ok",
+    "smap": "ok",
+    "modis": "ok",
+    "eco_lst": "ok",
+    "eco_et": "ok",
+    "srtm": "ok",
+    "cdl": "ok",
+    "ssurgo": "ok",
+    "gaez": "ok",
+    "nass": "ok"
+  },
+  "disclaimer": "Decision support only. Review every suggestion with the farmer and a local agronomist."
+}

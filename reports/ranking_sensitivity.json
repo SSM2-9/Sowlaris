@@ -1,0 +1,73 @@
+{
+  "runs": 300,
+  "seed": 0,
+  "note": "Stability under the assumed parameter ranges \u2014 NOT probability of real-world success.",
+  "profiles": {
+    "default (all 3)": {
+      "reference_pair": [
+        "corn_soy_wheat_vetch",
+        "alfalfa_corn_soy"
+      ],
+      "share_same_pair": 0.79,
+      "share_ranked_first": {
+        "corn_soy_wheat_vetch": 0.777,
+        "alfalfa_corn_soy": 0.223
+      },
+      "share_shown": {
+        "corn_soy_wheat_vetch": 1.0,
+        "alfalfa_corn_soy": 0.79,
+        "sorghum_soy_wheat_dc": 0.21
+      }
+    },
+    "water first": {
+      "reference_pair": [
+        "sorghum_soy_wheat_dc",
+        "corn_soy_wheat_vetch"
+      ],
+      "share_same_pair": 0.787,
+      "share_ranked_first": {
+        "sorghum_soy_wheat_dc": 0.997,
+        "alfalfa_corn_soy": 0.003
+      },
+      "share_shown": {
+        "sorghum_soy_wheat_dc": 1.0,
+        "corn_soy_wheat_vetch": 0.787,
+        "alfalfa_corn_soy": 0.213
+      }
+    },
+    "market first": {
+      "reference_pair": [
+        "corn_soy_rye",
+        "corn_soy_wheat_vetch"
+      ],
+      "share_same_pair": 0.423,
+      "share_ranked_first": {
+        "corn_soy_wheat_vetch": 0.41,
+        "corn_soy_rye": 0.273,
+        "sorghum_soy_wheat_dc": 0.16,
+        "alfalfa_corn_soy": 0.157
+      },
+      "share_shown": {
+        "corn_soy_wheat_vetch": 0.76,
+        "corn_soy_rye": 0.63,
+        "sorghum_soy_wheat_dc": 0.33,
+        "alfalfa_corn_soy": 0.28
+      }
+    },
+    "soil & erosion first": {
+      "reference_pair": [
+        "alfalfa_corn_soy",
+        "corn_soy_wheat_vetch"
+      ],
+      "share_same_pair": 1.0,
+      "share_ranked_first": {
+        "corn_soy_wheat_vetch": 0.833,
+        "alfalfa_corn_soy": 0.167
+      },
+      "share_shown": {
+        "corn_soy_wheat_vetch": 1.0,
+        "alfalfa_corn_soy": 1.0
+      }
+    }
+  }
+}

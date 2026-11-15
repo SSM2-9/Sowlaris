@@ -1,0 +1,6 @@
+map_unit,soil_name,pct_of_field,topsoil_sand_pct,topsoil_silt_pct,topsoil_clay_pct,topsoil_organic_matter_pct,topsoil_ph,topsoil_erodibility_kw,plant_available_water_in_0_79in,min_ksat_um_s,max_clay_pct,t_factor
+4018,Chase silty clay loam (very rarely flooded),18.9,4.0,66.0,30.0,3.0,6.449999999999999,0.37,14.17,0.42,44.0,5.0
+7213,Reading silt loam (moderately wet; very rarely flooded),3.4,6.0,70.0,24.0,3.0,6.05,0.37,16.67,1.41,33.0,5.0
+7680,Wymore silty clay loam (0-1% slopes),55.0,4.0,61.0,35.0,3.0,6.05,0.32,14.14,0.01,46.0,5.0
+7682,Wymore silty clay loam (1-3% slopes; eroded),22.6,4.0,61.0,35.0,3.0,6.05,0.32,14.14,0.01,46.0,5.0
+FIELD_AVG,Area-weighted field average,100.0,4.07,62.25,33.68,3.0,6.13,0.33,14.23,0.14,45.18,5.0

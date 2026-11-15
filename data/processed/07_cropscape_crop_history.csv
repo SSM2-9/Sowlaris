@@ -1,0 +1,21 @@
+year,lat,lon,cdl_code,crop,previous_crop
+2006,39.12,-96.63,176,Grass/Pasture,
+2007,39.12,-96.63,176,Grass/Pasture,Grass/Pasture
+2008,39.12,-96.63,24,Winter Wheat,Grass/Pasture
+2009,39.12,-96.63,36,Alfalfa,Winter Wheat
+2010,39.12,-96.63,5,Soybeans,Alfalfa
+2011,39.12,-96.63,1,Corn,Soybeans
+2012,39.12,-96.63,5,Soybeans,Corn
+2013,39.12,-96.63,1,Corn,Soybeans
+2014,39.12,-96.63,5,Soybeans,Corn
+2015,39.12,-96.63,1,Corn,Soybeans
+2016,39.12,-96.63,5,Soybeans,Corn
+2017,39.12,-96.63,1,Corn,Soybeans
+2018,39.12,-96.63,5,Soybeans,Corn
+2019,39.12,-96.63,1,Corn,Soybeans
+2020,39.12,-96.63,5,Soybeans,Corn
+2021,39.12,-96.63,1,Corn,Soybeans
+2022,39.12,-96.63,5,Soybeans,Corn
+2023,39.12,-96.63,1,Corn,Soybeans
+2024,39.12,-96.63,5,Soybeans,Corn
+2025,39.12,-96.63,1,Corn,Soybeans

@@ -1,0 +1,331 @@
+{
+  "role": "Secondary diagnostic: historical comparison and what-if only; not used in rotation scores.",
+  "target": "Yield as % of the crop's linear trend (USDA NASS, Riley County). In validation the trend is re-fitted inside each fold on training years only.",
+  "features": {
+    "jja_heat_days": "Jun\u2013Aug heat-stress days (\u226535 \u00b0C)",
+    "gs_water_balance_mm": "May\u2013Sep water balance (rain \u2212 ET0)",
+    "ja_rain_mm": "Jul\u2013Aug rain",
+    "ja_root_wetness": "Jul\u2013Aug root-zone soil wetness"
+  },
+  "n_crop_years_summer_crops": 42,
+  "n_independent_years": 20,
+  "model_of_record": "Random Forest",
+  "best_model": "Random Forest",
+  "random_seed": 0,
+  "validation": {
+    "method": "leave-one-year-out, detrending inside each fold",
+    "overall": {
+      "Baseline (always 100% of normal)": {
+        "MAE_pct_points": 15.42,
+        "R2": -0.002,
+        "n": 42
+      },
+      "Ridge regression": {
+        "MAE_pct_points": 13.06,
+        "R2": 0.3,
+        "n": 42
+      },
+      "Random Forest": {
+        "MAE_pct_points": 11.26,
+        "R2": 0.439,
+        "n": 42
+      }
+    },
+    "by_crop": {
+      "corn": {
+        "Baseline (always 100% of normal)": {
+          "MAE_pct_points": 12.09,
+          "R2": -0.0,
+          "n": 14
+        },
+        "Ridge regression": {
+          "MAE_pct_points": 10.37,
+          "R2": 0.308,
+          "n": 14
+        },
+        "Random Forest": {
+          "MAE_pct_points": 9.14,
+          "R2": 0.485,
+          "n": 14
+        }
+      },
+      "sorghum": {
+        "Baseline (always 100% of normal)": {
+          "MAE_pct_points": 15.26,
+          "R2": -0.004,
+          "n": 11
+        },
+        "Ridge regression": {
+          "MAE_pct_points": 14.07,
+          "R2": 0.333,
+          "n": 11
+        },
+        "Random Forest": {
+          "MAE_pct_points": 13.01,
+          "R2": 0.358,
+          "n": 11
+        }
+      },
+      "soybean": {
+        "Baseline (always 100% of normal)": {
+          "MAE_pct_points": 18.27,
+          "R2": -0.002,
+          "n": 17
+        },
+        "Ridge regression": {
+          "MAE_pct_points": 14.63,
+          "R2": 0.279,
+          "n": 17
+        },
+        "Random Forest": {
+          "MAE_pct_points": 11.87,
+          "R2": 0.454,
+          "n": 17
+        }
+      }
+    },
+    "mae_bu_per_acre_by_crop": {
+      "corn": 11.6,
+      "sorghum": 11.9,
+      "soybean": 4.9
+    },
+    "by_climate_severity": {
+      "jja_heat_days": {
+        "fewest heat days": {
+          "model": {
+            "MAE_pct_points": 12.1,
+            "R2": -0.081,
+            "n": 14
+          },
+          "baseline": {
+            "MAE_pct_points": 16.95,
+            "R2": -1.283,
+            "n": 14
+          },
+          "mean_bias_pct_points": -4.8
+        },
+        "middle": {
+          "model": {
+            "MAE_pct_points": 10.78,
+            "R2": -0.037,
+            "n": 14
+          },
+          "baseline": {
+            "MAE_pct_points": 11.34,
+            "R2": -0.039,
+            "n": 14
+          },
+          "mean_bias_pct_points": -0.8
+        },
+        "most heat days": {
+          "model": {
+            "MAE_pct_points": 10.9,
+            "R2": 0.009,
+            "n": 14
+          },
+          "baseline": {
+            "MAE_pct_points": 17.97,
+            "R2": -1.525,
+            "n": 14
+          },
+          "mean_bias_pct_points": 6.1
+        }
+      },
+      "gs_water_balance_mm": {
+        "driest": {
+          "model": {
+            "MAE_pct_points": 9.15,
+            "R2": -0.038,
+            "n": 14
+          },
+          "baseline": {
+            "MAE_pct_points": 16.97,
+            "R2": -2.239,
+            "n": 14
+          },
+          "mean_bias_pct_points": 6.0
+        },
+        "middle": {
+          "model": {
+            "MAE_pct_points": 11.22,
+            "R2": 0.094,
+            "n": 14
+          },
+          "baseline": {
+            "MAE_pct_points": 15.82,
+            "R2": -0.463,
+            "n": 14
+          },
+          "mean_bias_pct_points": -7.3
+        },
+        "wettest": {
+          "model": {
+            "MAE_pct_points": 13.41,
+            "R2": -0.039,
+            "n": 14
+          },
+          "baseline": {
+            "MAE_pct_points": 13.47,
+            "R2": -0.265,
+            "n": 14
+          },
+          "mean_bias_pct_points": 1.8
+        }
+      }
+    },
+    "poor_years_obs_below_85pct": {
+      "n": 8,
+      "MAE_model": 17.5,
+      "mean_bias_model": 17.5
+    },
+    "good_years_obs_above_110pct": {
+      "n": 13,
+      "MAE_model": 16.2,
+      "mean_bias_model": -15.7
+    },
+    "forward_chaining_2015_2025": {
+      "model": {
+        "MAE_pct_points": 13.54,
+        "R2": 0.198,
+        "n": 20
+      },
+      "baseline": {
+        "MAE_pct_points": 16.54,
+        "R2": -0.092,
+        "n": 20
+      }
+    },
+    "bootstrap_skill": {
+      "mae_gain_vs_baseline_median": 4.17,
+      "range_2p5_97p5": [
+        0.69,
+        7.46
+      ],
+      "share_of_resamples_with_gain": 0.99,
+      "n_years": 20,
+      "note": "Year-bootstrap of held-out errors; exploratory spread of skill, NOT a calibrated prediction interval (~20 independent seasons)."
+    },
+    "residual_spread": {
+      "held_out_residual_p10_p90_pct_points": [
+        -17.5,
+        18.8
+      ],
+      "note": "Empirical spread of held-out errors; coverage for future years is not validated."
+    }
+  },
+  "model_comparison_leave_one_year_out": {
+    "Baseline (always 100% of normal)": {
+      "MAE_pct_points": 15.42,
+      "R2": -0.002
+    },
+    "Ridge regression": {
+      "MAE_pct_points": 13.06,
+      "R2": 0.3
+    },
+    "Random Forest": {
+      "MAE_pct_points": 11.26,
+      "R2": 0.439
+    }
+  },
+  "feature_importance": {
+    "Jun\u2013Aug heat-stress days (\u226535 \u00b0C)": 0.173,
+    "May\u2013Sep water balance (rain \u2212 ET0)": 0.399,
+    "Jul\u2013Aug rain": 0.236,
+    "Jul\u2013Aug root-zone soil wetness": 0.188
+  },
+  "year_2012": {
+    "corn": {
+      "observed_pct_change_vs_trend": -33.9,
+      "held_out_rf_prediction_pct_change": -15.5,
+      "full_sample_rf_estimate_pct_change_vs_median_summer": -29.1
+    },
+    "soybean": {
+      "observed_pct_change_vs_trend": -26.6,
+      "held_out_rf_prediction_pct_change": -18.2,
+      "full_sample_rf_estimate_pct_change_vs_median_summer": -32.4
+    },
+    "sorghum": {
+      "observed_pct_change_vs_trend": -29.8,
+      "held_out_rf_prediction_pct_change": -15.6,
+      "full_sample_rf_estimate_pct_change_vs_median_summer": -29.4
+    }
+  },
+  "crop_sensitivity": {
+    "corn": {
+      "years_of_data": 14,
+      "yield_change_pct_per_10_extra_heat_days": -7.1,
+      "correlation_jja_heat_days": -0.81,
+      "yield_change_pct_per_100mm_more_deficit": -7.6,
+      "correlation_gs_water_balance_mm": 0.66,
+      "avg_yield_pct_in_hottest_quarter_of_years": 87.4,
+      "worst_year": 2012,
+      "worst_year_pct_of_normal": 68.6
+    },
+    "sorghum": {
+      "years_of_data": 11,
+      "yield_change_pct_per_10_extra_heat_days": -8.8,
+      "correlation_jja_heat_days": -0.76,
+      "yield_change_pct_per_100mm_more_deficit": -8.3,
+      "correlation_gs_water_balance_mm": 0.67,
+      "avg_yield_pct_in_hottest_quarter_of_years": 80.2,
+      "worst_year": 2012,
+      "worst_year_pct_of_normal": 72.1
+    },
+    "soybean": {
+      "years_of_data": 17,
+      "yield_change_pct_per_10_extra_heat_days": -8.3,
+      "correlation_jja_heat_days": -0.59,
+      "yield_change_pct_per_100mm_more_deficit": -7.2,
+      "correlation_gs_water_balance_mm": 0.56,
+      "avg_yield_pct_in_hottest_quarter_of_years": 84.8,
+      "worst_year": 2023,
+      "worst_year_pct_of_normal": 66.1
+    },
+    "wheat": {
+      "years_of_data": 12,
+      "yield_change_pct_per_10_extra_heat_days": 3.0,
+      "correlation_jja_heat_days": 0.25,
+      "yield_change_pct_per_100mm_more_deficit": 2.2,
+      "correlation_gs_water_balance_mm": -0.34,
+      "avg_yield_pct_in_hottest_quarter_of_years": 108.4,
+      "worst_year": 2007,
+      "worst_year_pct_of_normal": 64.0
+    }
+  },
+  "scenarios_yield_change_pct_vs_normal_summer": {
+    "provenance": "rf_full_sample_estimate (in-sample; NOT validated forecasts)",
+    "hot_dry_like_2012": {
+      "corn": -29.1,
+      "soybean": -32.4,
+      "sorghum": -29.4
+    },
+    "plus_1C_summer": {
+      "corn": -5.6,
+      "soybean": -6.5,
+      "sorghum": -5.7
+    },
+    "plus_2C_summer": {
+      "corn": -15.4,
+      "soybean": -19.3,
+      "sorghum": -15.7
+    },
+    "plus_2C_and_20pct_less_rain": {
+      "corn": -22.7,
+      "soybean": -26.8,
+      "sorghum": -23.2
+    }
+  },
+  "heat_days_per_degree_c": 10.7,
+  "trend_bu_per_acre_per_year_full_sample": {
+    "corn": 2.95,
+    "sorghum": 0.07,
+    "soybean": 0.16,
+    "wheat": 0.68
+  },
+  "caveats": [
+    "About 20 independent seasons; only one extreme drought (2012).",
+    "Held-out predictions shrink toward normal: losses in bad years and gains in good years are under-predicted.",
+    "County yields include irrigated fields, which hides heat damage; the model cannot rank crops' heat tolerance.",
+    "Intervals here are exploratory (year bootstrap / empirical residuals), not calibrated prediction intervals."
+  ]
+}
