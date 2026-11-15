@@ -8,7 +8,7 @@ textColor = "#43402F"
 font = "sans serif"
 
 [server]
-headless = false
+headless = true
 enableStaticServing = true   # serves app/static/hero.mp4 at /app/static/hero.mp4
 
 [browser]
