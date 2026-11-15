@@ -49,14 +49,18 @@ NASA POWER and GPM IMERG
 These were retrieved through NASA AppEEARS and the POWER API. They are combined with USDA CropScape, SSURGO and NASS county yields, and FAO GAEZ.
 
 **Tools**
+
 Python (pandas, NumPy, scikit-learn) and Streamlit. 162 automated tests check units, missing data, drought behaviour, feasibility rules, reproducibility and the app itself.
 
 **What makes it creative**
+
 Most farm tools give one confident answer. Sowlaris shows its uncertainty. It flags close calls instead of hiding them. It shows the farmer why each rotation wins or loses, in plain language, on a calm, farmer-first interface.
 
 **Intended impact**
+
 Farmers facing more frequent droughts get a rotation plan that is clear about its water risk and built on NASA data they can check themselves. This helps them adapt their fields to a changing climate with confidence.
 
 **Use of AI**
+
 AI assistants (Claude by Anthropic) helped write and test parts of the code and documentation. The team made the scientific decisions, reviewed every result, and owns the final work.
 
